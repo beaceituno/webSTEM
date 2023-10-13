@@ -1,9 +1,47 @@
 ---
-title: "About"
+title: "Información"
+description: Información sobre el club 
+editor: source
 ---
 
-About this site
+## ¿Dónde estamos?
 
-```{r}
-1 + 1
-```
++-------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ### Dirección                             | [![](https://www.educa2.madrid.org/web/educamadrid/principal/files/c899b8c3-456f-468a-959b-ec13ff0b69b7/Maps%20Mairena.jpg?t=1592753302401&largeSize=true)](https://www.google.es/maps/place/IES+Juan+de+Mairena/@40.549145,-3.6378938,17z/data=!3m1!4b1!4m6!3m5!1s0xd422cee5b363ab7:0xdd43d677299b8f0d!8m2!3d40.549141!4d-3.6353189!16s%2Fg%2F1tf6hysp?entry=ttu "Localización juan de Mairena") |
+|                                           |                                                                                                                                                                                                                                                                                                                                                                                                   |
+| IES JUAN DE MAIRENA                       |                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                           |                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Pasaje de la Viña n.º 3                   |                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                           |                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 28700 San Sebastián de los Reyes (Madrid) |                                                                                                                                                                                                                                                                                                                                                                                                   |
++-------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+### Correo electrónico
+
+[ies.juandemairena.sansebastian\@educa.madrid.org](mailto:ies.juandemairena.sansebastian@educa.madrid.org)
+
+### Teléfono
+
+(00. 34) 91.651.81.99
+
+### Fax
+
+(00.34)91.663.91.37
+
+## ¿Cuándo estamos?
+
+Todos los martes en la hora del recreo en el Laboratorio de Química
+
+## ¿Qué hacemos?
+
+El club STEM surge para promover las actividades......puede acudir cualquier alumno del IES
+
+## ¿Quienes somos?
+
+En el club stem trabajaras con los siguientes profesores:
+
+-   Beatriz Aceituno Moreno (Departamento de Tecnología)
+
+-   Victor Montero (Departamento de Física y Química)
+
+## Conoce nuestra historia

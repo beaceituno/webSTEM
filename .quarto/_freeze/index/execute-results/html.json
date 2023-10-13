@@ -1,7 +1,7 @@
 {
-  "hash": "880de61546b059544bd11c3ed3374c4f",
+  "hash": "a36954a7e58baebb55713472106b783e",
   "result": {
-    "markdown": "---\ntitle: \"webSTEM\"\n---\n\n\nPrueba\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"CLUB STEM MAIRENA\"\nimage: /images/juanDeMairena-01.png\nabout: \n  template: trestles\n  image-shape: rounded\n  image-width: 15em\n  links: \n    - text: Email club STEM\n      icon: envelope\n      href: mailto:baceituno@educa.madrid.org\n    - text: resumen\n      icon: file-text\n      href: resume.pdf\n  id: ppc\n---\n\n\n::: {#pcc}\nNovedades\n\n!Novedades\n:::\n\n## sección 1\n\n## sección 2\n\n![stem madrid](images/stem_madrid.png){fig-alt=\"stem madrid\" width=\"150\"}\n\n> Esto es **negrita** esto es Blockquote que se supone que es para hacer citas pero no veo la diferencia y esto es *Italic* y esto es `formato como código`. y esto\n\n::: callout-important\n## Para la próxima semana\n\nTraer los materiales:\n\n-   lápiz\n\n-   papel\n:::\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

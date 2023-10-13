@@ -1,11 +1,37 @@
 ---
-title: "webSTEM"
+title: "CLUB STEM MAIRENA"
+image: /images/juanDeMairena-01.png
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links: 
+    - text: Email club STEM
+      icon: envelope
+      href: mailto:baceituno@educa.madrid.org
+    - text: STEMadrid
+      icon: file-text
+      href: docs/plan_stemadrid4.pdf
+resources:
+  - "docs/*.pdf"
+
 ---
 
-Prueba
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## sección 1
 
-```{r}
-1 + 1
-```
+## sección 2
+
+![stem madrid](images/stem_madrid.png){fig-alt="stem madrid" width="150"}
+
+> Esto es **negrita** esto es Blockquote que se supone que es para hacer citas pero no veo la diferencia y esto es *Italic* y esto es `formato como código`. y esto
+
+::: {.callout-important style="background: white"}
+## Para la próxima semana
+
+Traer los materiales:
+
+-   lápiz
+
+-   papel
+:::

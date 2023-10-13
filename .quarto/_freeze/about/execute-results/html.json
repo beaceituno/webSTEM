@@ -1,7 +1,7 @@
 {
-  "hash": "a754ce02c0472c0b163d8ffb898e69ac",
+  "hash": "90045177d03e294c80ed3205e3075949",
   "result": {
-    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Sobre mi\"\nabout:\n  template: jolla\n  image: /images/logo_juanDeMairena.png\n---\n\n\n## ¿Dónde estamos?\n\n### Dirección:\n\nIES JUAN DE MAIRENA\n\nPasaje de la Viña n.º 3\n\n28700 San Sebastián de los Reyes (madrid)\n\n### Email: \n\nies.juandemairena.sansebastian\\@educa.madrid.org\n\n### Teléfono: \n\n(00. 34) 91.651.81.99\n\n### Fax:\n\n(00.34)91.663.91.37\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

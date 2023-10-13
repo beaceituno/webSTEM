@@ -3,18 +3,28 @@ project:
 
 website:
   title: "CLUB STEM MAIRENA"
+  back-to-top-navigation: true
+  reader-mode: true
+  favicon: /images/logo_juanDeMairena.png
   navbar:
+    logo: /images/logo_juanDeMairena.png
     left:
-#      - href: index.qmd
-#        text: Inicio
+      - href: index.qmd
+        text: Inicio
       - href: about.qmd
-        text: Acerca
+        text: Información
+      - href: pages/curso23_24.qmd
+        text: Actividades curso actual
+      - href: pages/historico.qmd
+        text: Actividades otros cursos
 
 format:
   html:
     theme: sketchy
+    fontcolor: "#24338E"
     css: styles.css
     toc: true
 
 editor: visual
+
 

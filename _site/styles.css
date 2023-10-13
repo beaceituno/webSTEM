@@ -1,1 +1,12 @@
 /* css styles */
+body {
+  background-color: #EFF8FA;
+}
+h1 {
+  color: #24338E;
+}
+td, th {
+   background: #EFF8FA;
+   color: #24338E;
+}   
+   
