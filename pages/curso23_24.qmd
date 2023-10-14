@@ -1,3 +1,9 @@
 ---
 title: "Actividades curso 2023-2024"
 ---
+
+La temática de este curso es [**"Cómo funciona?"**]{.smallcaps}
+
+### ¿Cómo funciona?.......
+
+![](/images/cartelPresentcionComoFunciona.png){fig-alt="Cartel presentación club 2023_24" fig-align="center" width="309"}

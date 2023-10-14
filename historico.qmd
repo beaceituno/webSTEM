@@ -3,3 +3,7 @@ title: "Actividades otros cursos"
 ---
 
 ## Actividades STEM curso 2022/23
+
+[![](images/compost.png){fig-alt="imagen portada proyecto stem compost" fig-align="center" width="214"}](https://www.educa2.madrid.org/web/educamadrid/principal/files/40dfacbe-2f38-4434-8e2a-4f7ed63c85dd/Plan%20de%20centro%20STEM_v4.pdf?t=1695461877908)
+
+![](images/Póster definitivo.png){fig-alt="poster compost" fig-align="center" width="398"}
