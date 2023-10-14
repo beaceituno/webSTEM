@@ -8,7 +8,7 @@ about:
   links: 
     - text: Email club STEM
       icon: envelope
-      href: mailto:baceituno@educa.madrid.org
+      href: mailto:ies.juandemairena.sansebastian@educa.madrid.org
     - text: STEMadrid
       icon: file-text
       href: docs/plan_stemadrid4.pdf
