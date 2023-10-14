@@ -26,5 +26,6 @@ format:
     toc: true
 
 editor: visual
+email-obfuscation: javascript
 
 
