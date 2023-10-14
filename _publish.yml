@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: "fc0143c8-b8b5-4807-83c5-b327e267594e"
+      url: "https://clubstemmairena.netlify.app"
