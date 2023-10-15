@@ -18,16 +18,24 @@ resources:
 
 ![](images/juanDeMairena-01.png){fig-alt="Foto entrada IES Juan de Mairena"}
 
+<center><font size=+2><font color="brown">[**¡VEN A CONOCERNOS! Estais todos invitados.**]{.smallcaps}</font></center>
+
 ## sección 1
 
-## sección 2
+## Próxima actividad
 
-> Esto es **negrita** esto es Blockquote que se supone que es para hacer citas pero no veo la diferencia y esto es *Italic* y esto es `formato como código`. y esto
+> recreo del martes 24 de octubre en el laboratorio de Química
+>
+> Actividad: [[¿Cómo funciona un sextante?]{.underline}]{.smallcaps}
+>
+> Organiza: Departamento de Matemáticas.
+>
+> Profesor responsable:
 
 ::: {.callout-important style="background: white"}
-## Para la próxima semana
+## Para el martes 24 de octubre de 2023
 
-Traer los materiales:
+No te olvides traer los siguientes materiales:
 
 -   lápiz
 
