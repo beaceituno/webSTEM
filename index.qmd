@@ -1,6 +1,6 @@
 ---
 title: "CLUB STEM MAIRENA"
-image: /images/juanDeMairena-01.png
+image: /images/logo_clubSTEM.png
 about: 
   template: trestles
   image-shape: round
@@ -16,11 +16,11 @@ resources:
   - "docs/*.pdf"
 ---
 
+![](images/juanDeMairena-01.png){fig-alt="Foto entrada IES Juan de Mairena"}
+
 ## sección 1
 
 ## sección 2
-
-![stem madrid](images/stem_madrid.png){fig-alt="stem madrid" width="150"}
 
 > Esto es **negrita** esto es Blockquote que se supone que es para hacer citas pero no veo la diferencia y esto es *Italic* y esto es `formato como código`. y esto
 
