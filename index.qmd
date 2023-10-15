@@ -18,19 +18,19 @@ resources:
 
 ![](images/juanDeMairena-01.png){fig-alt="Foto entrada IES Juan de Mairena"}
 
-<center><font size=+2><font color="brown">[**¡VEN A CONOCERNOS! Estais todos invitados.**]{.smallcaps}</font></center>
+<center><font size=+2><font color="brown">[**¡VEN A CONOCERNOS! Estáis todos invitados.**]{.smallcaps}</font></center>
 
 ## sección 1
 
 ## Próxima actividad
 
-> recreo del martes 24 de octubre en el laboratorio de Química
+> Recreo del martes 24 de octubre de 2023 en el laboratorio de Química
 >
-> Actividad: [[¿Cómo funciona un sextante?]{.underline}]{.smallcaps}
+> -   Actividad: [[¿Cómo funciona un sextante?]{.underline}]{.smallcaps}
 >
-> Organiza: Departamento de Matemáticas.
+> -   Organiza: Departamento de Matemáticas.
 >
-> Profesor responsable:
+> -   Profesor responsable:
 
 ::: {.callout-important style="background: white"}
 ## Para el martes 24 de octubre de 2023
