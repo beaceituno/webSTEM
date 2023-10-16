@@ -1,0 +1,15 @@
+# Este archivo sirve para configurar el comportamiento del blog
+# options specified here will apply to all posts in this folder
+format:
+  html:
+    code-fold: false
+    code-tools: false
+
+# prevents posts from re-rendering unless explicitly told to do so
+# (for more, see https://quarto.org/docs/projects/code-execution.html#freeze)
+freeze: true
+
+# enable banner style title blocks
+# (see https://quarto.org/docs/authoring/title-blocks.html)
+title-block-banner: true
+code-link: false

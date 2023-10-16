@@ -16,5 +16,35 @@
   },
   "pages/historico.qmd": {
     "historico.html": "28c281ba"
+  },
+  "posts/01/index.qmd": {
+    "index.html": "07dd0709"
+  },
+  "blog.qmd": {
+    "blog.html": "bb4e4759"
+  },
+  "blog_curso_actual/01/index.qmd": {
+    "index.html": "fa6db66b"
+  },
+  "blog_curso_actual/blog_curso_actual.qmd": {
+    "blog_curso_actual.html": "c7c31a57"
+  },
+  "blog_histórico/blog_histórico.qmd": {
+    "blog_histórico.html": "139ce51a"
+  },
+  "blog_histórico/curso23_24.qmd": {
+    "curso23_24.html": "2252d63d"
+  },
+  "blog_curso_actual/02/index.qmd": {
+    "index.html": "4819c650"
+  },
+  "blog_curso_actual/16102023_poster_presentacion/index.qmd": {
+    "index.html": "9b3dd090"
+  },
+  "blog_histórico/01/index.qmd": {
+    "index.html": "2f44df06"
+  },
+  "blog_histórico/16102023_compost/index.qmd": {
+    "index.html": "c536f430"
   }
 }

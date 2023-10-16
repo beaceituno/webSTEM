@@ -1,0 +1,12 @@
+---
+title: "Edición 2023/24"
+description: Poster presentación actividades STEM
+date: '10-16-2023'
+editor: source
+image: cartelPresentcionComoFunciona.png
+categories: 
+  - 2023/24
+  - Actividades
+---
+
+

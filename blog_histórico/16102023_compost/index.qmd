@@ -1,0 +1,12 @@
+---
+title: "Actividades curso"
+description: Actividad STEM 2022/23
+date: '10-16-2023'
+editor: source
+image: compost.png
+categories: 
+  - 2022/23
+  - Actividades
+---
+
+![](compost.png){fig-alt="Imagen compost"}

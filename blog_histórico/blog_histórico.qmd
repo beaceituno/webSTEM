@@ -1,0 +1,10 @@
+---
+title: "Actividades de otros cursos"
+description: Actividades STEM curso 2022/23
+listing: 
+  contents: 
+    - .
+  type: grid
+  sort: "date desc"
+  categories: true
+---

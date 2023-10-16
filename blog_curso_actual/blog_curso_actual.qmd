@@ -1,0 +1,13 @@
+---
+title: "Actividades curso actual"
+description: Actividades STEM curso 2023/24
+reader-mode: true
+listing: 
+  contents: 
+    - .
+  type: grid
+  sort: "date desc"
+  categories: true
+---
+
+La temática de este curso es [**"Cómo funciona?"**]{.smallcaps}

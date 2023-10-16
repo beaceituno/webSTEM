@@ -13,9 +13,9 @@ website:
         text: Inicio
       - href: about.qmd
         text: Información
-      - href: pages/curso23_24.qmd
+      - href: blog_curso_actual/blog_curso_actual.qmd
         text: Actividades curso actual
-      - href: pages/historico.qmd
+      - href: blog_histórico/blog_histórico.qmd
         text: Actividades otros cursos
 
 format:
