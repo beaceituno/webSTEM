@@ -20,8 +20,6 @@ resources:
 
 <center><font size=+2><font color="brown">[**¡VEN A CONOCERNOS! Estáis todos invitados.**]{.smallcaps}</font></center>
 
-## sección 1
-
 ## Próxima actividad
 
 > Recreo del martes 24 de octubre de 2023 en el laboratorio de Química
