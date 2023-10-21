@@ -1,5 +1,5 @@
 ---
-title: "Actividades curso actual"
+title: <font color="white">"Actividades curso actual"</font>
 description: Actividades STEM curso 2023/24
 reader-mode: true
 listing: 

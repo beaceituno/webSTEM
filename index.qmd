@@ -24,18 +24,24 @@ resources:
 
 > Recreo del martes 24 de octubre de 2023 en el laboratorio de Química
 >
-> -   Actividad: [[¿Cómo funciona un sextante?]{.underline}]{.smallcaps}
+> -   Actividad: [[¿Cómo funciona un cuadrante?]{.underline}]{.smallcaps}
 >
 > -   Organiza: Departamento de Matemáticas.
->
-> -   Profesor responsable:
 
 ::: {.callout-important style="background: white"}
 ## Para el martes 24 de octubre de 2023
 
 No te olvides traer los siguientes materiales:
 
--   lápiz
+-   Pegamento de barra.
 
--   papel
+-   Tijeras.
+
+-   Una pajita.
+
+-   Celo.
+
+-   Un cordel.
+
+-   Una plomada.
 :::

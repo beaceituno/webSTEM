@@ -1,0 +1,46 @@
+---
+title: "¿Cómo funciona un motor eléctrico?"
+description: Cómo transformar energía eléctrica en movimiento
+date: '10-19-2023'
+draft: true
+editor: source
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/TMW_50906_Schnittmodell_einer_Drehstrommaschine_%28Asynchronmaschine%29.jpg/640px-TMW_50906_Schnittmodell_einer_Drehstrommaschine_%28Asynchronmaschine%29.jpg
+categories: 
+  - 2023/24
+  - Actividades
+  - Tecnología
+---
+
++----------------------------------------+-------------------------+
+| ### Nivel                              | ### Duración            |
++----------------------------------------+-------------------------+
+| Cualquier nivel de ESO o Bachillerato. | 20 minutos.             |
++----------------------------------------+-------------------------+
+
++----------------------------------------------+
+| ### Objetivo                                 |
++----------------------------------------------+
+| Transformar energía eléctrica en movimiento. |
++----------------------------------------------+
+
+### Materiales
+
+-   Pila de petaca (4.5 V).
+
+-   Hilo de cobre esmaltado.
+
+-   Un imán.
+
+-   Dos imperdibles.
+
+-   Cinta aislante.
+
+-   Papel de lija.
+
+### Procedimiento
+
+1.  Enrollamos el hilo de cobre en torno a un objeto cilíndrico para formar una bobina.
+
+2.  Con el papel de lija retiramos el esmalte que cubre los extremos rectos de nuestra bobina.
+3.  Con cinta aislante unimos cada uno de los imperdibles a un polo de la pila.
+4.  Ponemos la bobina en los agujeros de los imperdibles y luego acercamos un imán.

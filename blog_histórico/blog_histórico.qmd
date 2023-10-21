@@ -1,5 +1,5 @@
 ---
-title: "Actividades de otros cursos"
+title: <font color= "white">"Actividades de otros cursos"</font>
 description: Actividades STEM curso 2022/23
 listing: 
   contents: 
