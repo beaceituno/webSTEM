@@ -1,0 +1,60 @@
+---
+title: ¿Cómo funciona un cuadrante?"
+description: Cómo transformar ángulos en alturas.
+date: '10-22-2023'
+editor: source
+section-title-footnotes: "Notas"
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Royal_presentation_octant%2C_made_by_Jean_Baptiste_Magnie%2C_dedicated_to_King_Louis_XVI%2C_c._1786%2C_brass%2C_mahogany%2C_glass_-_Peabody_Essex_Museum_-_DSC06648.jpg/640px-Royal_presentation_octant%2C_made_by_Jean_Baptiste_Magnie%2C_dedicated_to_King_Louis_XVI%2C_c._1786%2C_brass%2C_mahogany%2C_glass_-_Peabody_Essex_Museum_-_DSC06648.jpg
+categories: 
+  - 2023/24
+  - Actividades
+  - Matemáticas
+---
+
++--------------------------+----------------+
+| ### Nivel                | ### Duración   |
++--------------------------+----------------+
+| 2º - 3º ESO              | 1 Recreo (20 minutos).    |
++--------------------------+----------------+
+
++-------------------------------------------+
+| ### Objetivo                              |
++-------------------------------------------+
+| Transformar medida de ángulos en alturas. |
++-------------------------------------------+
+
++-------------------------+------------------+
+| ### Materiales          |                  |
++-------------------------+------------------+
+| -   Pegamento de barra. | -   Celo.        |
+|                         |                  |
+| -   Tijeras.            | -   Un cordel.   |
+|                         |                  |
+| -   Una pajita.         | -   Una plomada. |
++-------------------------+------------------+
+
+### Procedimiento
+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+:-----------------------------------------:+
+| 1.  Descarga la [plantilla del cuadrante](Plantilla%20cuadrante.pdf).                                                                                                         | [![](foto_cuadrante.png)](foto cuadrante) |
+|                                                                                                                                                                               |                                           |
+| 2.  Decora al gusto tu cuadrante y escribe tu nombre (si lo puedes plastificar te durará más).                                                                                |                                           |
+|                                                                                                                                                                               |                                           |
+| 3.  Recorta la silueta del cuadrante y pégalo en un cartón. Recorta el cartón con la silueta. Para que quede más bonito puedes usar papel de colores o fotos para el reverso. |                                           |
+|                                                                                                                                                                               |                                           |
+| 4.  Refuerza con celo los bordes para que no se despegue el papel.                                                                                                            |                                           |
+|                                                                                                                                                                               |                                           |
+| 5.  Pega la pajita con celo, como muestra el dibujo, y recorta los sobrantes.                                                                                                 |                                           |
+|                                                                                                                                                                               |                                           |
+| 6.  Realiza un agujero en la marca indicada y coloca el cordel con una plomada.                                                                                               |                                           |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+
+### Para usar el cuadrante
+
+1.  Sitúate a la distancia de lo que quieras medir de forma que puedas ver mirando la pajita el punto más alto.
+
+2.  Asegúrate de que el cuadrante está horizontal, comprobando que el cordel está exactamente sobre el filo del nivel. Para esto necesitarás ayuda de tu compañero.
+
+3.  Mide la distancia en horizontal desde donde estás hasta la base del monumento.
+
+4.  Suma a dicho valor la altura desde tus pies hasta tus ojos y súmaselo.
