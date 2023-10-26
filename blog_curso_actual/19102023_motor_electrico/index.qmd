@@ -1,8 +1,8 @@
 ---
 title: "¿Cómo funciona un motor eléctrico?"
 description: Cómo transformar energía eléctrica en movimiento
-date: '10-19-2023'
-draft: true
+date: '10-26-2023'
+draft: false
 editor: source
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/TMW_50906_Schnittmodell_einer_Drehstrommaschine_%28Asynchronmaschine%29.jpg/640px-TMW_50906_Schnittmodell_einer_Drehstrommaschine_%28Asynchronmaschine%29.jpg
 categories: 
@@ -11,36 +11,35 @@ categories:
   - Tecnología
 ---
 
-+----------------------------------------+-------------------------+
-| ### Nivel                              | ### Duración            |
-+----------------------------------------+-------------------------+
-| Cualquier nivel de ESO o Bachillerato. | 20 minutos.             |
-+----------------------------------------+-------------------------+
+### Objetivo
 
-+----------------------------------------------+
-| ### Objetivo                                 |
-+----------------------------------------------+
-| Transformar energía eléctrica en movimiento. |
-+----------------------------------------------+
+Transformar energía eléctrica en movimiento.
 
-### Materiales
+### Duración
 
--   Pila de petaca (4.5 V).
+2 recreos de 20 minutos.
 
--   Hilo de cobre esmaltado.
-
--   Un imán.
-
--   Dos imperdibles.
-
--   Cinta aislante.
-
--   Papel de lija.
++------------------------------+----------------------+---------------------------------:+
+| ### Materiales               |                      |                                  |
++------------------------------+----------------------+----------------------------------+
+| -   Pila de petaca (4.5 V).  | -   Dos imperdibles. | | \|                             |
+|                              |                      |                                  |
+| -   Hilo de cobre esmaltado. | -   Cinta aislante.  |                                  |
+|                              |                      |                                  |
+| -   Un imán..                | -   Papel de lija.   |                                  |
++------------------------------+----------------------+----------------------------------+
 
 ### Procedimiento
 
-1.  Enrollamos el hilo de cobre en torno a un objeto cilíndrico para formar una bobina.
+1.  Construcción del Rotor: enrollamos el hilo de cobre en torno a un objeto cilíndrico para formar una bobina. Se dejan unos 4 o 5 cm en cada extremo, que será el eje del motor, y se realizan algunas vueltas tipo lazo para evitar que la bobina se desarme.
 
 2.  Con el papel de lija retiramos el esmalte que cubre los extremos rectos de nuestra bobina.
+
 3.  Con cinta aislante unimos cada uno de los imperdibles a un polo de la pila.
+
 4.  Ponemos la bobina en los agujeros de los imperdibles y luego acercamos un imán.
+
+### Conclusiones
+
+¿Qué ha pasado y por qué?
+Escribe tus conclusiones
