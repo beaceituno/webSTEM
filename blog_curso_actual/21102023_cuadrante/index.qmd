@@ -11,43 +11,45 @@ categories:
   - Matemáticas
 ---
 
-+--------------------------+----------------+
-| ### Nivel                | ### Duración   |
-+--------------------------+----------------+
-| 2º - 3º ESO              | 1 Recreo (20 minutos).    |
-+--------------------------+----------------+
+### Objetivo
 
-+-------------------------------------------+
-| ### Objetivo                              |
-+-------------------------------------------+
-| Transformar medida de ángulos en alturas. |
-+-------------------------------------------+
+Transformar medida de ángulos en alturas.
 
-+-------------------------+------------------+
-| ### Materiales          |                  |
-+-------------------------+------------------+
-| -   Pegamento de barra. | -   Celo.        |
-|                         |                  |
-| -   Tijeras.            | -   Un cordel.   |
-|                         |                  |
-| -   Una pajita.         | -   Una plomada. |
-+-------------------------+------------------+
+### Duración
+
+3 Recreos de 20 minutos.
+
++-------------------------+------------------+---------------------------------------------:+
+| ### Materiales          |                  |                                              |
++-------------------------+------------------+----------------------------------------------+
+| -   Pegamento de barra. | -   Celo.        | | ![](materiales_cuadrante.png){width="316"} |
+|                         |                  |                                              |
+| -   Tijeras.            | -   Un cordel.   |                                              |
+|                         |                  |                                              |
+| -   Una pajita.         | -   Una plomada. |                                              |
++-------------------------+------------------+----------------------------------------------+
 
 ### Procedimiento
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+:-----------------------------------------:+
-| 1.  Descarga la [plantilla del cuadrante](Plantilla%20cuadrante.pdf).                                                                                                         | [![](foto_cuadrante.png)](foto cuadrante) |
-|                                                                                                                                                                               |                                           |
-| 2.  Decora al gusto tu cuadrante y escribe tu nombre (si lo puedes plastificar te durará más).                                                                                |                                           |
-|                                                                                                                                                                               |                                           |
-| 3.  Recorta la silueta del cuadrante y pégalo en un cartón. Recorta el cartón con la silueta. Para que quede más bonito puedes usar papel de colores o fotos para el reverso. |                                           |
-|                                                                                                                                                                               |                                           |
-| 4.  Refuerza con celo los bordes para que no se despegue el papel.                                                                                                            |                                           |
-|                                                                                                                                                                               |                                           |
-| 5.  Pega la pajita con celo, como muestra el dibujo, y recorta los sobrantes.                                                                                                 |                                           |
-|                                                                                                                                                                               |                                           |
-| 6.  Realiza un agujero en la marca indicada y coloca el cordel con una plomada.                                                                                               |                                           |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+1.  Descarga la [plantilla del cuadrante](Plantilla%20cuadrante.pdf).
+
+2.  Decora al gusto tu cuadrante y escribe tu nombre (si lo puedes plastificar te durará más).
+
+3.  Recorta la silueta del cuadrante y pégalo en un cartón. Recorta el cartón con la silueta. Para que quede más bonito puedes usar papel de colores o fotos para el reverso.
+
+4.  Refuerza con celo los bordes para que no se despegue el papel.
+
+::: {layout-nrow="1"}
+![recortar y pegar](recortar_cuadrante.png){width="403"}
+
+![plastificar](recortar_cuadrante_2.png){width="408"}
+:::
+
+5.  Pega la pajita con celo, como muestra el dibujo, y recorta los sobrantes.
+
+6.  Realiza un agujero en la marca indicada y coloca el cordel con una plomada.
+
+![Decorar](foto_cuadrante.png){width="300"}
 
 ### Para usar el cuadrante
 

@@ -42,14 +42,14 @@ En el club colaboran los siguientes departamentos:
 
 -   Departamento de Matemáticas.
 
--    Departamento de Física y Química.
+-   Departamento de Física y Química.
 
--    Departamento de Ciencias Naturales.
+-   Departamento de Ciencias Naturales.
 
 -   Departamento de Tecnología.
 
 -   Departamento de Historia. Departamento de Economía.
 
--    Departamento de Ciclos de Química.
+-   Departamento de Ciclos de Química.
 
 ## Conoce nuestra historia
