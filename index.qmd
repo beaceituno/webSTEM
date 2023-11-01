@@ -22,14 +22,14 @@ resources:
 
 ## Próximas actividades
 
-> #### 🔭 Recreo del **martes 24 de octubre** de 2023 en el laboratorio de Química
+> #### 🔭 Recreo del **martes 7 de noviembre** de 2023 en el laboratorio de Química
 >
 > -   Actividad: [[¿Cómo funciona un cuadrante?]{.underline}]{.smallcaps}
 >
 > -   Organiza: Departamento de Matemáticas.
 
 ::: {.callout-important style="background: white"}
-## Para el martes 24 de octubre de 2023
+## Para el martes 7 de noviembre de 2023
 
 No te olvides traer los siguientes materiales:
 
@@ -46,7 +46,7 @@ No te olvides traer los siguientes materiales:
 -   Una plomada.
 :::
 
-> #### 🧲 Recreo del **martes 7 de noviembre de 2023** en el laboratorio de Química
+> #### 🧲 Recreo del **martes 14 de noviembre de 2023** en el laboratorio de Química
 >
 > -   Actividad: [[¿Cómo funciona un motor eléctrico?]{.underline}]{.smallcaps}
 >
