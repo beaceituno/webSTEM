@@ -1,6 +1,6 @@
 ---
 title: "CLUB STEM MAIRENA"
-image: /images/logo_clubSTEM_2.png
+image: /images/logo_clubSTEM.png
 about: 
   template: trestles
   image-shape: round
@@ -9,9 +9,9 @@ about:
     - text: Email club STEM
       icon: envelope
       href: mailto:ies.juandemairena.sansebastian@educa.madrid.org
-    - text: STEMadrid
+    - text: Plan STEM de centro
       icon: file-text
-      href: docs/plan_stemadrid4.pdf
+      href: docs/Plan de centro STEM.pdf
 resources:
   - "docs/*.pdf"
 ---

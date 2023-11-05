@@ -1,6 +1,6 @@
 ---
 title: "Edición 2023/24"
-description: Poster presentación actividades STEM
+description: Actividades STEM programadas para el curso 2023/24
 date: '10-16-2023'
 editor: source
 image: cartelPresentcionComoFunciona.png
@@ -10,3 +10,58 @@ categories:
 ---
 
 
+## Actividades realizadas
+
+> #### 🔭 Recreo de los martes 17 y 24 de octubre y 7 de noviembre de 2023:
+>
+> -   Actividad: [[¿Cómo funciona un cuadrante?]{.underline}]{.smallcaps}
+>
+> -   Organiza: Departamento de Matemáticas.
+
+
+> #### 🧲 Recreo del martes 14 de noviembre de 2023:
+>
+> -   Actividad: [[¿Cómo funciona un motor eléctrico?]{.underline}]{.smallcaps}
+>
+> -   Organiza: Departamento de Tecnología.
+
+## Próximas actividades
+
+Estas actividades se van a realizar durante el presente curso. Para no perderte ninguna, presta atención a las fechas de convocatoria que se publicarán en la página de inicio de esta web y en el tablón de anuncios STEM del centro.
+
+> -   Actividad: [[¿Cómo funciona el Mancala, un uno de los juegos más antiguos del mundo?]{.underline}]{.smallcaps}
+>
+> -   Organiza: Departamento de Tecnología.
+
+> -   Actividad: [[¿Cómo funciona la gestión de residuos?]{.underline}]{.smallcaps}
+>
+> -   Organiza: Departamento de Química (FP).
+
+> -   Actividad: [[¿Cómo funciona el cifrado de mensajes?]{.underline}]{.smallcaps}
+>
+> -   Organiza: Departamento de Matemáticas.
+
+> -   Actividad: [[¿Cómo funciona un aerogenerador?]{.underline}]{.smallcaps}
+>
+> -   Organiza: Departamento de Tecnología.
+
+> -   Actividad: [[¿Cómo funciona la gravedad?]{.underline}]{.smallcaps}
+>
+> -   Organiza: Departamento de Física y Química.
+
+
+> -   Actividad: [[¿Cómo funciona la evapotranspiración?]{.underline}]{.smallcaps}
+>
+> -   Organiza: Departamento de Biología y Geología.
+
+> -   Actividad: [[¿Cómo funcionan los bancos?]{.underline}]{.smallcaps}
+>
+> -   Organiza: Departamento de Economía.
+
+> -   Actividad: [[¿Cómo funcionan una excavación arqueológica?]{.underline}]{.smallcaps}
+>
+> -   Organiza: Departamento de Geografía e Historia.
+
+> -   Actividad: [[¿Cómo funcionan las app y la inteligencia artificial?]{.underline}]{.smallcaps}
+>
+> -   Organiza: Departamento de Tecnología.

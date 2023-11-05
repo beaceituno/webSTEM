@@ -9,4 +9,4 @@ categories:
   - Actividades
 ---
 
-![](compost.png){fig-alt="Imagen compost"}
+![](Poster definitivo.png){fig-alt="Póster compost"}
