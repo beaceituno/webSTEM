@@ -1,6 +1,6 @@
 ---
 title: "CLUB STEM MAIRENA"
-image: /images/logo_clubSTEM.png
+image: /images/logo_clubSTEM_2.png
 about: 
   template: trestles
   image-shape: round
