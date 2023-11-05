@@ -9,3 +9,7 @@ td, th {
    background: #EFF8FA;
    color: #24338E;
 }  
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
