@@ -19,27 +19,46 @@ Transformar energía eléctrica en movimiento.
 
 2 recreos de 20 minutos.
 
-+------------------------------+----------------------+---------------------------------:+
-| ### Materiales               |                      |                                  |
-+------------------------------+----------------------+----------------------------------+
-| -   Pila de petaca (4.5 V).  | -   Dos imperdibles. | | \|                             |
-|                              |                      |                                  |
-| -   Hilo de cobre esmaltado. | -   Cinta aislante.  |                                  |
-|                              |                      |                                  |
-| -   Un imán..                | -   Papel de lija.   |                                  |
-+------------------------------+----------------------+----------------------------------+
++------------------------------+----------------------+------------------------------------------------:+
+| ### Materiales               |                      |                                                 |
++------------------------------+----------------------+-------------------------------------------------+
+| -   Pila de petaca (4.5 V).  | -   Dos imperdibles. | ![](foto%20motor%20materiales.jpg){width="500"} |
+|                              |                      |                                                 |
+| -   Hilo de cobre esmaltado. | -   Cinta aislante.  |                                                 |
+|                              |                      |                                                 |
+| -   Un imán..                | -   Papel de lija.   |                                                 |
++------------------------------+----------------------+-------------------------------------------------+
 
 ### Procedimiento
 
 1.  Construcción del Rotor: enrollamos el hilo de cobre en torno a un objeto cilíndrico para formar una bobina. Se dejan unos 4 o 5 cm en cada extremo, que será el eje del motor, y se realizan algunas vueltas tipo lazo para evitar que la bobina se desarme.
 
-2.  Con el papel de lija retiramos el esmalte que cubre los extremos rectos de nuestra bobina.
+::: {layout-nrow="1"}
+![Dejar 4 o 5 cm de eje](foto%20motor%201.jpg){width="200"}
+
+![Pelamos 4 o 5 cm de extremo de cable](foto%20motor%204.jpg){width="200"}
+
+![Enrrollamos el hilo de cobre](foto%20motor%202.jpg){width="200"}
+:::
+
+2.  Con el papel de lija retiramos el esmalte que cubre los extremos rectos de nuestra bobina. 
+
+::: {layout-nrow="1"} 
+![lijamos el extremo](foto%20motor%203.jpg){width="200"}
+
+![Rotores](foto%20motor%206.jpg){width="200"} 
+:::
 
 3.  Con cinta aislante unimos cada uno de los imperdibles a un polo de la pila.
 
 4.  Ponemos la bobina en los agujeros de los imperdibles y luego acercamos un imán.
 
+::: {layout-nrow="1"} 
+![Unimos las piezas](foto motor 5.jpg){width="200"}
+
+![Acercamos el imán](foto motor 7.jpg){width="200"}
+:::
+
 ### Conclusiones
 
-¿Qué ha pasado y por qué?
-Escribe tus conclusiones
+¿Qué ha pasado y por qué? Escribe tus conclusiones
