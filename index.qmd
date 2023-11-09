@@ -22,29 +22,29 @@ resources:
 
 ## Próximas actividades
 
-> #### 🔭 Recreo del **martes 7 de noviembre** de 2023 en el laboratorio de Química
->
-> -   Actividad: [[¿Cómo funciona un cuadrante?]{.underline}]{.smallcaps}
->
-> -   Organiza: Departamento de Matemáticas.
+<!-- > #### 🔭 Recreo del **martes 7 de noviembre** de 2023 en el laboratorio de Química -->
+<!-- > -->
+<!-- > -   Actividad: [[¿Cómo funciona un cuadrante?]{.underline}]{.smallcaps} -->
+<!-- > -->
+<!-- > -   Organiza: Departamento de Matemáticas. -->
 
-::: {.callout-important style="background: white"}
-## Para el martes 7 de noviembre de 2023
+<!-- ::: {.callout-important style="background: white"} -->
+<!-- ## Para el martes 7 de noviembre de 2023 -->
 
-No te olvides traer los siguientes materiales:
+<!-- No te olvides traer los siguientes materiales: -->
 
--   Pegamento de barra.
+<!-- -   Pegamento de barra. -->
 
--   Tijeras.
+<!-- -   Tijeras. -->
 
--   Una pajita.
+<!-- -   Una pajita. -->
 
--   Celo.
+<!-- -   Celo. -->
 
--   Un cordel.
+<!-- -   Un cordel. -->
 
--   Una plomada.
-:::
+<!-- -   Una plomada. -->
+<!-- ::: -->
 
 > #### 🧲 Recreo del **martes 14 de noviembre de 2023** en el laboratorio de Química
 >
