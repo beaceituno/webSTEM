@@ -41,23 +41,39 @@ Transformar energía eléctrica en movimiento.
 ![Enrrollamos el hilo de cobre](foto%20motor%202.jpg){width="200"}
 :::
 
-2.  Con el papel de lija retiramos el esmalte que cubre los extremos rectos de nuestra bobina. 
+2.  Con el papel de lija retiramos el esmalte que cubre los extremos rectos de nuestra bobina. Lija solamente la mitad del contorno del cable esmaltado, de esta forma, sólo habrá fuerza electromagnética en la mitad de la rotación que permite el contacto eléctrico. Si no dispones de hilo esmaltado puedes emplear unos 30cm de cable fino para construir la bobina. Deja unos 2cm de cable pelado en los extremos para introducirlos por los imperdibles y que se produzca el contacto eléctico. En este caso no es necesario lijar ya que el cobre no está esmaltado.
 
-::: {layout-nrow="1"} 
+::: {layout-nrow="1"}
 ![lijamos el extremo](foto%20motor%203.jpg){width="200"}
 
-![Rotores](foto%20motor%206.jpg){width="200"} 
+![Rotores](foto%20motor%206.jpg){width="200"}
 :::
 
 3.  Con cinta aislante unimos cada uno de los imperdibles a un polo de la pila.
 
 4.  Ponemos la bobina en los agujeros de los imperdibles y luego acercamos un imán.
 
-::: {layout-nrow="1"} 
-![Unimos las piezas](foto motor 5.jpg){width="200"}
+::: {layout-nrow="1"}
+![Unimos las piezas](foto%20motor%205.jpg){width="200"}
 
-![Acercamos el imán](foto motor 7.jpg){width="200"}
+![Acercamos el imán](foto%20motor%207.jpg){width="200"}
 :::
+
+{{< video https://youtu.be/qpqF1bLwoXc 
+    title="Construcción motor electrico sencillo"
+>}}
+
+### Funcionamiento
+
+Un motor de corriente continua obtiene energía de una fuente de corrriente continua (pila) y lo transforma en energía mecánica (movimiento).
+
+Está basada en el **principio de inducción**, bajo el cual se crea una fuerza electromagnética a partir de una corriente de entrada que, a la vez, crea un movimiento giratorio.
+
+Al hacer pasar corriente por la bobina, se genera un campo magnético que interactúa con los polos del imán permanente que acerco a la bobina. Los polos de igual signo se repelen haciendo que se alejen y los de signo contrario se atraen, haciendo que la bobina gire.
+
+{{< video https://youtu.be/JurMDGbZ6VU 
+    title="¿Cómo funciona un motor eléctrico?"
+>}}
 
 ### Conclusiones
 
