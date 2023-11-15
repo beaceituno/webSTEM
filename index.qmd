@@ -22,32 +22,26 @@ resources:
 
 ## Próximas actividades
 
-<!-- > #### 🔭 Recreo del **martes 7 de noviembre** de 2023 en el laboratorio de Química -->
-<!-- > -->
-<!-- > -   Actividad: [[¿Cómo funciona un cuadrante?]{.underline}]{.smallcaps} -->
-<!-- > -->
-<!-- > -   Organiza: Departamento de Matemáticas. -->
-
-<!-- ::: {.callout-important style="background: white"} -->
-<!-- ## Para el martes 7 de noviembre de 2023 -->
-
-<!-- No te olvides traer los siguientes materiales: -->
-
-<!-- -   Pegamento de barra. -->
-
-<!-- -   Tijeras. -->
-
-<!-- -   Una pajita. -->
-
-<!-- -   Celo. -->
-
-<!-- -   Un cordel. -->
-
-<!-- -   Una plomada. -->
-<!-- ::: -->
-
 > #### 🧲 Recreos del **martes 14 y 21 de noviembre de 2023** en el laboratorio de Química
 >
 > -   Actividad: [[¿Cómo funciona un motor eléctrico?]{.underline}]{.smallcaps}
 >
 > -   Organiza: Departamento de Tecnología.
+>
+> #### 🥼 Recreos del **martes 5 y 12 de diciembre de 2023** en el laboratorio de Química
+>
+> -   Actividad: [[¿Cómo funciona una solución saturada?]{.underline}]{.smallcaps}. Visita a un laboratorio de Química. Demostración práctica de la recogida de derrames y práctica con una solución sobresaturada.
+>
+> -   Organiza: Departamento de Ciclos de Química.
+
+::: {.callout-important style="background: white"}
+## Para los martes 5 y 12 de diciembre de 2023
+
+Por razones de seguridad no está permitido comer durante la visita al labortorio. Dispondrás de unos minutos, antes de comenzar el recorrido, para tomar la merienda.
+:::
+
+## Concurso diseño del logotipo del club STEM
+
+> Próximamente se publicará en la web las bases del concurso para diseñar el logotipo destinado a ser la imagen representativa del club STEM de nuestro centro.
+
+> Podrá participar toda la comunidad educativa. ¡Id buscando vuestras ideas!

@@ -1,0 +1,27 @@
+---
+title: "¿Cómo funciona una solución saturada?"
+description: Cómo tratar los residuos de un laboratorio químico.
+date: '11-29-2023'
+draft: false
+editor: source
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bull_%26_Roberts_Lab_1914.jpg/640px-Bull_%26_Roberts_Lab_1914.jpg
+categories: 
+  - 2023/24
+  - Visita
+  - Actividad
+  - Química
+---
+
+### Objetivo
+
+Entender cómo se gestionan los residuos de un laboratorio químico y cómo funciona la recogida de residuos cuando sucede un derrame de un reactivo químico.
+
+### Duración
+
+2 recreos de 20 minutos.
+
+
+### Actividad
+
+Visita a un laboratorio de Química, donde se explicará como funciona la recogida de residuos cuando sucede un derrame de un reactivo químico. Se hará una demostración práctica de la recogida del derrame y una realización práctica con una solución sobresaturada.
+
