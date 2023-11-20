@@ -57,6 +57,11 @@ Transformar energía eléctrica en movimiento.
 ![Unimos las piezas](foto%20motor%205.jpg){width="200"}
 
 ![Acercamos el imán](foto%20motor%207.jpg){width="200"}
+
+
+```{=html}
+<iframe src="https://mediateca.educa.madrid.org/video/5kdgjj5osybe5t4p/fs" width="420" height="315" frameborder="0" scrolling="no" style="border:0;overflow:hidden" allowfullscreen></iframe>
+```
 :::
 
 {{< video https://youtu.be/qpqF1bLwoXc title="Construcción motor electrico sencillo" >}}
