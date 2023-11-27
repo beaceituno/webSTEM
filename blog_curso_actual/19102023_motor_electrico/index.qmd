@@ -76,6 +76,15 @@ Al hacer pasar corriente por la bobina, se genera un campo magnético que intera
 
 {{< video https://youtu.be/JurMDGbZ6VU title="¿Cómo funciona un motor eléctrico?" >}}
 
+
+{{< video https://www.youtube.com/embed/XfoO8ZJLQB4 feature=share title="Construcción motor electrico sencillo" >}}
+
+### Despiece de un motor
+
+Para finalizar esta actividad, tu profesor te proporcionará un pequeño motor eléctrico de corriente continua. Desmontalo y analiza cómo está construido y cuál es su funcionamiento. Realiza un croquis de sus partes.
+
+![Despiece de un motor](foto motor despiece.jpg)
+
 ### Conclusiones
 
 ¿Qué ha pasado y por qué? Escribe tus conclusiones
