@@ -20,8 +20,10 @@ Entender cómo se gestionan los residuos de un laboratorio químico y cómo func
 
 2 recreos de 20 minutos.
 
-
 ### Actividad
 
 Visita a un laboratorio de Química, donde se explicará como funciona la recogida de residuos cuando sucede un derrame de un reactivo químico. Se hará una demostración práctica de la recogida del derrame y una realización práctica con una solución sobresaturada.
 
+<center>
+<iframe src="https://mediateca.educa.madrid.org/video/p3a7uc94nh9ygto4/fs" width="420" height="315" frameborder="0" scrolling="no" style="border:0;overflow:hidden" allowfullscreen></iframe>
+</center>
