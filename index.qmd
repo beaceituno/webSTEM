@@ -20,19 +20,15 @@ resources:
 
 <center><font size=+2><font color="brown">[**¡VEN A CONOCERNOS! Estáis todos invitados.**]{.smallcaps}</font></center>
 
+## Concurso diseño del logotipo del club STEM
+
+>El Club STEM del Mairena necesita de vuestra ayuda para diseñar su logo. Un logo que nos identifique y que perdure de generación en generación inspirando a los estudiantes de nuestro centro para hacer ciencia.
+
+>Consulta las [bases de la convocatoria](./docs/Concurso Logotipo Club Stem.pdf). El plazo de entrega de trabajos finaliza el 31 de enero de 2023.
+>¡Anímate!
+
+
 ## Próximas actividades
-
-> #### 🥼 Recreos del **martes 5 y 12 de diciembre de 2023** en el laboratorio de Química
->
-> -   Actividad: [[¿Cómo funciona una solución saturada?]{.underline}]{.smallcaps}. Visita a un laboratorio de Química. Demostración práctica de la recogida de derrames y práctica con una solución sobresaturada.
->
-> -   Organiza: Departamento de Ciclos de Química.
-
-::: {.callout-important style="background: white"}
-## Para los martes 5 y 12 de diciembre de 2023
-
-Por razones de seguridad no está permitido comer durante la visita al labortorio. Dispondrás de unos minutos, antes de comenzar el recorrido, para tomar la merienda.
-:::
 
 > #### ♟️ Recreos del **martes 19 de diciembre de 2023** en el laboratorio de Química
 >
@@ -54,8 +50,4 @@ Si no dispones de alguno de estos materiales, se administrarán en el taller.
 
 :::
 
-## Concurso diseño del logotipo del club STEM
 
-> Próximamente se publicará en la web las bases del concurso para diseñar el logotipo destinado a ser la imagen representativa del club STEM de nuestro centro.
-
-> ¡Id buscando vuestras ideas!
