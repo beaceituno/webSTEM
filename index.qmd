@@ -24,7 +24,7 @@ resources:
 
 >El Club STEM del Mairena necesita de vuestra ayuda para diseñar su logo. Un logo que nos identifique y que perdure de generación en generación inspirando a los estudiantes de nuestro centro para hacer ciencia.
 
->Consulta las [bases de la convocatoria](./docs/Concurso Logotipo Club Stem.pdf). El plazo de entrega de trabajos finaliza el 31 de enero de 2023.
+>Consultad las [bases de la convocatoria](./docs/Concurso Logotipo Club Stem.pdf). El plazo de entrega de trabajos finaliza el 31 de enero de 2023.
 >¡Anímate!
 
 
