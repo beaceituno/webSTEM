@@ -22,32 +22,30 @@ resources:
 
 ## Concurso diseño del logotipo del club STEM
 
->El Club STEM del Mairena necesita de vuestra ayuda para diseñar su logo. Un logo que nos identifique y que perdure de generación en generación inspirando a los estudiantes de nuestro centro para hacer ciencia.
+> El Club STEM del Mairena necesita de vuestra ayuda para diseñar su logo. Un logo que nos identifique y que perdure de generación en generación inspirando a los estudiantes de nuestro centro para hacer ciencia.
 
->Consultad las [bases de la convocatoria](./docs/Concurso Logotipo Club Stem.pdf). El plazo de entrega de trabajos finaliza el 31 de enero de 2023.
->¡Anímate!
-
+> Consultad las [bases de la convocatoria](./docs/Concurso%20Logotipo%20Club%20Stem.pdf). El plazo de entrega de trabajos finaliza el 31 de enero de 2023. ¡Anímate!
 
 ## Próximas actividades
 
-> #### ♟️ Recreos del **martes 19 de diciembre de 2023** en el laboratorio de Química
+> #### 📜 Recreos del **martes 9 de enero de 2024** en el laboratorio de Química
 >
-> -    Actividad: [[¿Cómo funciona el Mancala, uno de los juegos más antiguos del mundo?]{.underline}]{.smallcaps}
+> -   Actividad: [[¿Cómo funciona el cifrado de mensajes?]{.underline}]{.smallcaps}
 >
-> -   Organiza: Departamento de Tecnología.
+> -   Organiza: Departamento de Matemáticas.
 
-::: {.callout-important style="background: white"}
-## Para los martes 19 de diciembre de 2023
+<!-- ::: {.callout-important style="background: white"} -->
 
-Material necesario:
+<!-- ## Para los martes 19 de diciembre de 2023 -->
 
-- Tijeras.
-- Pegamento o cola blanca.
-- Una huevera vacía, de una docena de huevos distribuidos en dos filas de seis.
+<!-- Material necesario: -->
 
-Si no dispones de alguno de estos materiales, se administrarán en el taller.
+<!-- -   Tijeras. -->
 
+<!-- -   Pegamento o cola blanca. -->
 
-:::
+<!-- -   Una huevera vacía, de una docena de huevos distribuidos en dos filas de seis. -->
 
+<!-- Si no dispones de alguno de estos materiales, se administrarán en el taller. -->
 
+<!-- ::: -->

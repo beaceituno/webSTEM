@@ -58,7 +58,6 @@ Transformar energía eléctrica en movimiento.
 
 ![Acercamos el imán](foto%20motor%207.jpg){width="200"}
 
-
 ```{=html}
 <iframe src="https://mediateca.educa.madrid.org/video/5kdgjj5osybe5t4p/fs" width="420" height="315" frameborder="0" scrolling="no" style="border:0;overflow:hidden" allowfullscreen></iframe>
 ```
@@ -76,16 +75,14 @@ Al hacer pasar corriente por la bobina, se genera un campo magnético que intera
 
 {{< video https://youtu.be/JurMDGbZ6VU title="¿Cómo funciona un motor eléctrico?" >}}
 
-
 {{< video https://www.youtube.com/embed/XfoO8ZJLQB4 feature=share title="Construcción motor electrico sencillo" >}}
 
 ### Despiece de un motor
 
 Para finalizar esta actividad, tu profesor te proporcionará un pequeño motor eléctrico de corriente continua. Desmóntalo y analiza cómo está construido y cuál es su funcionamiento. Realiza un croquis de sus partes.
 
-![Despiece de un motor](foto motor despiece.jpg)
+![Despiece de un motor](foto%20motor%20despiece.jpg)
 
 ### Conclusiones
 
-¿Qué has aprendido? Escribe tus conclusiones
-¿Qué no te ha quedado claro?
+¿Qué has aprendido? Escribe tus conclusiones ¿Qué no te ha quedado claro?
