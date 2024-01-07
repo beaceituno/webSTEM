@@ -1,6 +1,6 @@
 ---
 title: "¿Cómo funciona una solución saturada?"
-description: Cómo tratar los residuos de un laboratorio químico.
+description: Visita a un laboratorio de Química. Ver de forma práctica como la rápida cristalización de una disolución sobresaturada produce una estalagmita. Realización de disoluciones diluidas y saturadas de cloruro sódico.
 date: '11-29-2023'
 draft: false
 editor: source
@@ -14,16 +14,22 @@ categories:
 
 ### Objetivo
 
-Entender cómo se gestionan los residuos de un laboratorio químico y cómo funciona la recogida de residuos cuando sucede un derrame de un reactivo químico.
+Visita a un laboratorio de Química. Durante la visita se ve de forma práctica como la rápida cristalización de una disolución sobresaturada produce una estalagmita. Los alumnos también realizaron disoluciones diluidas y saturadas de cloruro sódico.
 
 ### Duración
 
-2 recreos de 20 minutos.
+1 recreo de 20 minutos.
 
 ### Actividad
 
-Visita a un laboratorio de Química, donde se explicará como funciona la recogida de residuos cuando sucede un derrame de un reactivo químico. Se hará una demostración práctica de la recogida del derrame y una realización práctica con una solución sobresaturada.
+Visita a un laboratorio de Química. Demostración práctica de la cristalización de una disolución sobresaturada de acetato de sodio produciendo una estalagmita y prácticas de realizarón de disoluciones diluidas y saturadas de cloruro sódico.
+
+Descarga la [ficha de la actividad](Una%20estalagmita%20de%20etanoato%20de%20sodio.pdf)
 
 <center>
-<iframe src="https://mediateca.educa.madrid.org/video/p3a7uc94nh9ygto4/fs" width="420" height="315" frameborder="0" scrolling="no" style="border:0;overflow:hidden" allowfullscreen></iframe>
+
+<iframe src="https://mediateca.educa.madrid.org/video/p3a7uc94nh9ygto4/fs" width="420" height="315" frameborder="0" scrolling="no" style="border:0;overflow:hidden" allowfullscreen>
+
+</iframe>
+
 </center>

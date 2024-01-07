@@ -1,0 +1,34 @@
+---
+title: "¿Cómo funciona un indicador de pH natural de col lombarda?"
+description: Cómo medir el pH de forma casera.
+date: '11-29-2023'
+draft: false
+editor: source
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/PH_scale_2.png/640px-PH_scale_2.png
+categories: 
+  - 2023/24
+  - Visita
+  - Actividad
+  - Química
+---
+
+### Objetivo
+
+Realizar prácticas de clasificación de sustancias Ácidas y Básicas de uso cotidiano. 
+
+### Duración
+
+1 recreo de 20 minutos.
+
+### Actividad
+
+Visita a un laboratorio de Química, donde se Realizan prácticas de clasificación de sustancias Ácidas y Básicas de uso cotidiano viendo cómo funciona como Indicador natural de pH el colorante extraído del agua de cocer col lombarda o repollo morado. Este colorante reacciona muy rápido con ácidos y bases, por eso el agua cambia el color. De esa manera nos indica si se trata de sustancias ácidas, básicas o neutras.
+
+Tras las prácticas se realizó la adecuada gestión de residuos generados durante las prácticas.
+
+Descarga la [ficha de la actividad](Indicador de pH con col Lombarda.pdf)
+
+![Laboratorio](laboratorio ciclos.jpg)
+
+
+

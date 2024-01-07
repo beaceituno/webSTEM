@@ -52,6 +52,7 @@ Transformar medida de ángulos en alturas.
 
 ![Trabajando](cuadrante_trabajando_clase.png){width="408"}
 :::
+
 6.  Realiza un agujero en la marca indicada y coloca el cordel con una plomada.
 
 ![Decorar](foto_cuadrante.png){width="300"}
