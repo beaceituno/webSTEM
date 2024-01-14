@@ -24,15 +24,15 @@ resources:
 
 > El Club STEM del Mairena necesita de vuestra ayuda para diseñar su logo. Un logo que nos identifique y que perdure de generación en generación inspirando a los estudiantes de nuestro centro para hacer ciencia.
 
-> Consultad las [bases de la convocatoria](./docs/Concurso%20Logotipo%20Club%20Stem.pdf). El plazo de entrega de trabajos finaliza el 31 de enero de 2023. ¡Anímate!
+> Consultad las [bases de la convocatoria](./docs/Concurso%20Logotipo%20Club%20Stem.pdf). El plazo de entrega de trabajos finaliza el 31 de enero de 2024. ¡Anímate!
 
-## Próximas actividades
+<!-- ## Próximas actividades -->
 
-> #### 📜 Recreos del **martes 9 de enero de 2024** en el laboratorio de Química
->
-> -   Actividad: [[¿Cómo funciona el cifrado de mensajes?]{.underline}]{.smallcaps}
->
-> -   Organiza: Departamento de Matemáticas.
+<!-- > #### 📜 Recreos del **martes 9 de enero de 2024** en el laboratorio de Química -->
+<!-- > -->
+<!-- > -   Actividad: [[¿Cómo funciona el cifrado de mensajes?]{.underline}]{.smallcaps} -->
+<!-- > -->
+<!-- > -   Organiza: Departamento de Matemáticas. -->
 
 <!-- ::: {.callout-important style="background: white"} -->
 
