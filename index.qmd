@@ -26,13 +26,12 @@ resources:
 
 > Consultad las [bases de la convocatoria](./docs/Concurso%20Logotipo%20Club%20Stem.pdf). El plazo de entrega de trabajos finaliza el 31 de enero de 2024. ¡Anímate!
 
-<!-- ## Próximas actividades -->
+## Próximas actividades
 
-<!-- > #### 📜 Recreos del **martes 9 de enero de 2024** en el laboratorio de Química -->
-<!-- > -->
-<!-- > -   Actividad: [[¿Cómo funciona el cifrado de mensajes?]{.underline}]{.smallcaps} -->
-<!-- > -->
-<!-- > -   Organiza: Departamento de Matemáticas. -->
+
+>#### 🏺 Recreos de los martes 23 y 30 de enero y 6 de febrero:
+> - Actividad: [[¿Cómo funcionan una excavación arqueológica?]{.underline}]{.smallcaps}
+> -   Organiza: Departamento de Geografía e Historia.
 
 <!-- ::: {.callout-important style="background: white"} -->
 

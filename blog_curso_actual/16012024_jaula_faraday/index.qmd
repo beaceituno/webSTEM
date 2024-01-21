@@ -1,0 +1,61 @@
+---
+title: "¿Cómo funciona una jaula de Faraday?"
+description: Cómo aislarse de los campos electromagnéticos.
+date: '01-16-2024'
+draft: false
+editor: source
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gregory_tesla.jpg/640px-Gregory_tesla.jpg
+categories: 
+  - 2023/24
+  - Visita
+  - Actividad
+  - Química
+---
+
+### Objetivo
+
+Entender cómo funciona la jaula de Faraday y su principio físico.
+
+### Duración
+
+1 recreo de 20 minutos.
+
+### Materiales
+
++:------------------------------------------+------------------------------------------------------------------------------------------------------------:+
+| -   Teléfono móvil                        | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Aluminio.jpg/640px-Aluminio.jpg){width="281"} |
+|                                           |                                                                                                             |
+| -   Papel de alumnio                      |                                                                                                             |
++-------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+
+### Actividad
+
+Imagina que sales de excursión al campo y te sorprende una tormenta eléctrica. ¿Qué produce los rayos? ¿Qué harías? ¿Dónde te refugiarías?
+
+::: {layout-ncol="2"}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lightning_In_Sky.jpg/640px-Lightning_In_Sky.jpg){width="392"}
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Brainstorming.png/640px-Brainstorming.png){width="252"}
+:::
+
+Realizad una lluvia de ideas para, entre todos, encontrar la mejor solución.
+
+¿Es buena idea refugiarte dentro del coche? ¿Por qué?
+
+Te invito a examinar cuidadosamente la siguiente información y llevar a cabo la práctica sugerida para descubrir la solución:
+
+En un estado de equilibrio, en los objetos conformados por materiales conductores, las cargas eléctricas se distribuyen uniformemente en su superficie, una conclusión fundamental derivada del teorema de Gauss, formulado por Carl F. Gauss en 1835. Este principio establece que no existen cargas eléctricas en el interior de dichos objetos, evitando así la creación de un campo eléctrico interno. Esta característica da origen a lo que comúnmente conocemos como una jaula de Faraday.
+
+Existen fenómenos, como los relacionados con las comunicaciones móviles, que implican la interacción con ondas electromagnéticas y que no pueden desarrollarse eficientemente dentro de una jaula de Faraday. A través de un sencillo experimento, podemos ilustrar de manera efectiva el funcionamiento de este dispositivo y sus diversas aplicaciones.
+
+### Procedimiento
+
+1. Efectúa una llamada a un teléfono móvil para verificar su correcta recepción.
+
+2. Envuelve el teléfono móvil en papel de aluminio de manera completa.
+
+3. Vuelve a realizar una llamada al teléfono móvil ahora envuelto en aluminio.
+
+### Observa y analiza
+
+¿Qué sucede? ¿Cuál es la razón? Explica detalladamente lo ocurrido.
