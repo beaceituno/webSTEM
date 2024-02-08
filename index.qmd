@@ -28,10 +28,9 @@ resources:
 
 ## Próximas actividades
 
-
->#### 🏺 Recreos de los martes 23 y 30 de enero y 6 de febrero:
-> - Actividad: [[¿Cómo funcionan una excavación arqueológica?]{.underline}]{.smallcaps}
-> -   Organiza: Departamento de Geografía e Historia.
+>#### 🚀 Recreos de los martes 13 y 20 de febrero:
+> - Actividad: [[¿Cómo funciona la gravedad?]{.underline}]{.smallcaps}
+> -   Organiza: Departamento de Física y Química.
 
 <!-- ::: {.callout-important style="background: white"} -->
 

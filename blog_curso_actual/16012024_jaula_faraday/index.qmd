@@ -7,9 +7,8 @@ editor: source
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gregory_tesla.jpg/640px-Gregory_tesla.jpg
 categories: 
   - 2023/24
-  - Visita
   - Actividad
-  - Química
+  - Física
 ---
 
 ### Objetivo
