@@ -14,28 +14,23 @@ about:
       href: docs/Plan de centro STEM.pdf
 resources:
     - "docs/*.pdf"
-
 ---
 
 ![](images/juanDeMairena-01.png){fig-alt="Foto entrada IES Juan de Mairena"}
 
 <center><font size=+2><font color="brown">[**¡VEN A CONOCERNOS! Estáis todos invitados.**]{.smallcaps}</font></center>
 
-
 ::: {.callout-important style="background: white"}
-
 ## Entrega de premios. Concurso diseño del logotipo del club STEM
 
 La entrega de premios del concurso será:
 
-- el **martes 27 de febrero** de 2023.
+-   el **martes 27 de febrero** de 2023.
 
-- A la **hora del recreo** (10:55).
+-   A la **hora del recreo** (10:55).
 
-- En el **Laboratorio de Física.**
-
+-   En el **Laboratorio de Física.**
 :::
-
 
 ## Concurso diseño del logotipo del club STEM
 
@@ -43,14 +38,11 @@ La entrega de premios del concurso será:
 
 > Consultad las [bases de la convocatoria](./docs/Concurso%20Logotipo%20Club%20Stem.pdf). El plazo de entrega de trabajos finaliza el 31 de enero de 2024. ¡Anímate!
 
-
 ## Próximas actividades
 
-> #### 🚀 Recreos de los martes 13 y 20 de febrero:
->
-> -   Actividad: [[¿Cómo funciona la gravedad?]{.underline}]{.smallcaps}
-> -   Organiza: Departamento de Física y Química.
-
+>#### 📜 Recreos de los martes 5 y 12 de marzo:
+>- Actividad: [[¿Cómo funciona el cifrado de mensajes?]{.underline}]{.smallcaps}
+>- Organiza: Departamento de Matemáticas.
 <!-- ::: {.callout-important style="background: white"} -->
 
 <!-- ## Para los martes 19 de diciembre de 2023 -->
