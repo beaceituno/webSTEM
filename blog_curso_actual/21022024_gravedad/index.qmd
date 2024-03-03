@@ -1,0 +1,36 @@
+---
+title: "¿Cómo funciona la gravedad?"
+description: Cómo medir el valor de la gravedad.
+date: '02-25-2024'
+draft: true
+editor: source
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Acceleration-due-to-Gravity-on-Earth.png/640px-Acceleration-due-to-Gravity-on-Earth.png
+categories: 
+  - 2023/24
+  - Actividad
+  - Física
+---
+
+### Objetivo
+
+Descubrir el funcionamiento de una excavación arqueológica.
+
+### Duración
+
+3 recreos de 20 minutos.
+
+### Materiales
+
++--------------------------------------------------------------------------------------+:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| -   Tierra para identificar los diferentes estratos de un yacimiento arqueológico.   | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Amou_2024-01-26_fouilles_arch%C3%A9ologiques_pr%C3%A9ventives_120724_foss%C3%A9_m%C3%A9di%C3%A9val.jpg/640px-Amou_2024-01-26_fouilles_arch%C3%A9ologiques_pr%C3%A9ventives_120724_foss%C3%A9_m%C3%A9di%C3%A9val.jpg){width="295"} |
++--------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| -   Cuerda para delimitar una prospección arqueológica e instrumentos de excavación. | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Failedrope1.jpg/640px-Failedrope1.jpg){width="300"}                                                                                                                                                                               |
++--------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+### Actividad
+
+Sesión 1: Introducción teórica a la arqueología. Realización de un boceto de nuestra futura excavación.
+
+Sesiones 2: ¿Qué son los estratos?
+
+Sesión 3: Práctica de campo en el patio del IES.
