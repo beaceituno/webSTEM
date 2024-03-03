@@ -51,4 +51,4 @@ rsconnect/
 /_site/
 
 # Lista de carpetas  de usuario ocultas al control de versiones
-/ignore/
+ **/ignore/
