@@ -13,24 +13,44 @@ categories:
 
 ### Objetivo
 
-Descubrir el funcionamiento de una excavación arqueológica.
+El Club STEM de Mairena convocó a los estudiantes del centro a participar en un concurso para diseñar su logotipo.. Un logo que nos identifique y que perdure de generación en generación inspirando a los estudiantes de nuestro centro para hacer ciencia.
 
-### Duración
+### Bases de la convocatoria
 
-3 recreos de 20 minutos.
+Consultad las [bases de la convocatoria](./docs/Concurso%20Logotipo%20Club%20Stem.pdf). El plazo de entrega de trabajos finalizó el 31 de enero de 2024.
 
-### Materiales
+### Ganadores
 
-+--------------------------------------------------------------------------------------+:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
-| -   Tierra para identificar los diferentes estratos de un yacimiento arqueológico.   | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Amou_2024-01-26_fouilles_arch%C3%A9ologiques_pr%C3%A9ventives_120724_foss%C3%A9_m%C3%A9di%C3%A9val.jpg/640px-Amou_2024-01-26_fouilles_arch%C3%A9ologiques_pr%C3%A9ventives_120724_foss%C3%A9_m%C3%A9di%C3%A9val.jpg){width="295"} |
-+--------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| -   Cuerda para delimitar una prospección arqueológica e instrumentos de excavación. | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Failedrope1.jpg/640px-Failedrope1.jpg){width="300"}                                                                                                                                                                               |
-+--------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+El martes 27 de febrero de 2024 se hizo entrega del los premios del concurso. Los ganadores y las explicaciones sobre su diseño son los siguientes:
 
-### Actividad
+#### Primer premio
 
-Sesión 1: Introducción teórica a la arqueología. Realización de un boceto de nuestra futura excavación.
 
-Sesiones 2: ¿Qué son los estratos?
+#### Segundo premio
 
-Sesión 3: Práctica de campo en el patio del IES.
+#### Accesis
+
+### Logos presentados
+
+A continuación, se muestran el resto de los logotipos presentados por los alumnos, cada uno acompañado de su respectiva explicación sobre el diseño.
+
+::: {#fig-autor layout-ncol=2}
+
+<a href="https://mediateca.educa.madrid.org/imagen/f7z45xy57pejzqxf" title="logo2"><img src="https://mediateca.educa.madrid.org/imagen.php?id=f7z45xy57pejzqxf&type=2&m=550" width="550" height="550" alt="logo2" style="border:0" /></a>
+
+<a href="https://mediateca.educa.madrid.org/imagen/w4dbgfnetmz6neg1" title="logo1"><img src="https://mediateca.educa.madrid.org/imagen.php?id=w4dbgfnetmz6neg1&type=2&m=550" width="550" height="550" alt="logo1" style="border:0" /></a>
+
+ Rubí Ariadna Comesaña Yucra
+:::
+
+
+Logo 1:
+
+El primer logo propuesto, encapsula la esencia del proyecto STEM que fusiona la química y la ciencia con juegos didácticos. La palabra "STEM" en mayúsculas y en negro, simboliza las disciplinas STEM (Ciencia, Tecnología, Ingeniería y Matemáticas)y el misterio que muestran estás modalidades. Las tres órbitas en verde, naranja y amarillo representan la integración armoniosa de estas áreas científicas, reflejando la diversidad y vitalidad del aprendizaje. Se disponen a modo de orbitas simbolizando el modelo atómico de Bohr. Este diseño trata de relacionar entre la diversión y el conocimiento a través de los ojos.
+
+
+
+Logo 2:
+
+El segundo logo del proyecto STEM es una  representación visual que muestra la relación entre la química inorgánica y las siglas del proyecto. Las tonalidades de turquesa indican un estado pacífico y tranquilo como lo es el proyecto STEM que trata de estimular a los alumnos a poseer curiosidad por la ciencia.
+

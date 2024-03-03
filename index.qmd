@@ -1,6 +1,7 @@
 ---
 title: "CLUB STEM MAIRENA"
-image: /images/logo_clubSTEM.png
+image: https://mediateca.educa.madrid.org/imagen.php?id=df5c3rwtkfgfw4fv&type=2&m=550
+#image: /images/logo_clubSTEM.png
 about: 
   template: trestles
   image-shape: round
@@ -20,29 +21,13 @@ resources:
 
 <center><font size=+2><font color="brown">[**¡VEN A CONOCERNOS! Estáis todos invitados.**]{.smallcaps}</font></center>
 
-::: {.callout-important style="background: white"}
-## Entrega de premios. Concurso diseño del logotipo del club STEM
-
-La entrega de premios del concurso será:
-
--   el **martes 27 de febrero** de 2023.
-
--   A la **hora del recreo** (10:55).
-
--   En el **Laboratorio de Física.**
-:::
-
-## Concurso diseño del logotipo del club STEM
-
-> El Club STEM del Mairena necesita de vuestra ayuda para diseñar su logo. Un logo que nos identifique y que perdure de generación en generación inspirando a los estudiantes de nuestro centro para hacer ciencia.
-
-> Consultad las [bases de la convocatoria](./docs/Concurso%20Logotipo%20Club%20Stem.pdf). El plazo de entrega de trabajos finaliza el 31 de enero de 2024. ¡Anímate!
-
 ## Próximas actividades
 
->#### 📜 Recreos de los martes 5 y 12 de marzo:
->- Actividad: [[¿Cómo funciona el cifrado de mensajes?]{.underline}]{.smallcaps}
->- Organiza: Departamento de Matemáticas.
+> #### 📜 Recreos de los martes 5 y 12 de marzo:
+>
+> -   Actividad: [[¿Cómo funciona el cifrado de mensajes?]{.underline}]{.smallcaps}
+> -   Organiza: Departamento de Matemáticas.
+
 <!-- ::: {.callout-important style="background: white"} -->
 
 <!-- ## Para los martes 19 de diciembre de 2023 -->
