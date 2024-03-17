@@ -23,10 +23,10 @@ resources:
 
 ## Próximas actividades
 
-> #### 📜 Recreos de los martes 5 y 12 de marzo:
->
-> -   Actividad: [[¿Cómo funciona el cifrado de mensajes?]{.underline}]{.smallcaps}
-> -   Organiza: Departamento de Matemáticas.
+>#### 🌀 Recreos de los martes 19 de marzo y 2 de abril: 
+>- Actividad: [[¿Cómo funciona un aerogenerador?]{.underline}]{.smallcaps}
+> -   Organiza: Departamento de Tecnología.
+
 
 <!-- ::: {.callout-important style="background: white"} -->
 
