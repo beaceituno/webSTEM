@@ -2,7 +2,7 @@
 title: "Concurso diseño del logo del club STEM"
 description: Diseño de un logo que represente al club.
 date: '02-27-2024'
-draft: true
+draft: false
 editor: source
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Calisthenics_in_Berlin-Marzahn_%28Marzahner_Promenade%29_Siegertreppchen.jpg/640px-Calisthenics_in_Berlin-Marzahn_%28Marzahner_Promenade%29_Siegertreppchen.jpg
 categories: 
@@ -17,40 +17,44 @@ El Club STEM de Mairena convocó a los estudiantes del centro a participar en un
 
 ### Bases de la convocatoria
 
-Consultad las [bases de la convocatoria](./docs/Concurso%20Logotipo%20Club%20Stem.pdf). El plazo de entrega de trabajos finalizó el 31 de enero de 2024.
+Consultad las [bases de la convocatoria](/docs/Concurso%20Logotipo%20Club%20Stem.pdf). El plazo de entrega de trabajos finalizó el 31 de enero de 2024.
 
 ### Ganadores
 
-El martes 27 de febrero de 2024 se hizo entrega del los premios del concurso. Los ganadores y las explicaciones sobre su diseño son los siguientes:
+El martes 27 de febrero de 2024 se hizo entrega del los premios del concurso.
+
+Los ganadores y las explicaciones, dadas por los autores, sobre su diseño son los siguientes:
 
 #### Primer premio
 
+![](https://mediateca.educa.madrid.org/imagen.php?id=df5c3rwtkfgfw4fv&m=550&type=2){width="550" height="550" style="border:0"}
 
 #### Segundo premio
 
-#### Accesis
+![](https://mediateca.educa.madrid.org/imagen.php?id=nrpwpumfa8gvmxlc&type=2&m=550){width="550" height="550" style="border:0"}
 
-### Logos presentados
+#### Tercer premio
 
-A continuación, se muestran el resto de los logotipos presentados por los alumnos, cada uno acompañado de su respectiva explicación sobre el diseño.
+![](https://mediateca.educa.madrid.org/imagen.php?id=w4dbgfnetmz6neg1&type=2&m=550){width="550" height="550" style="border:0"}
 
-::: {#fig-autor layout-ncol=2}
+El logo del proyecto STEM es una representación visual que muestra la relación entre la química inorgánica y las siglas del proyecto. Las tonalidades de turquesa indican un estado pacífico y tranquilo como lo es el proyecto STEM que trata de estimular a los alumnos a poseer curiosidad por la ciencia.
 
-<a href="https://mediateca.educa.madrid.org/imagen/f7z45xy57pejzqxf" title="logo2"><img src="https://mediateca.educa.madrid.org/imagen.php?id=f7z45xy57pejzqxf&type=2&m=550" width="550" height="550" alt="logo2" style="border:0" /></a>
+### Otros logos presentados
 
-<a href="https://mediateca.educa.madrid.org/imagen/w4dbgfnetmz6neg1" title="logo1"><img src="https://mediateca.educa.madrid.org/imagen.php?id=w4dbgfnetmz6neg1&type=2&m=550" width="550" height="550" alt="logo1" style="border:0" /></a>
+A continuación, se muestran el resto de los logotipos presentados por los alumnos, cada uno acompañado de su respectiva explicación sobre el diseño:
 
- Rubí Ariadna Comesaña Yucra
-:::
-
-
-Logo 1:
+![](https://mediateca.educa.madrid.org/imagen.php?id=f7z45xy57pejzqxf&m=550&type=2){width="550" height="550" style="border:0"}
 
 El primer logo propuesto, encapsula la esencia del proyecto STEM que fusiona la química y la ciencia con juegos didácticos. La palabra "STEM" en mayúsculas y en negro, simboliza las disciplinas STEM (Ciencia, Tecnología, Ingeniería y Matemáticas)y el misterio que muestran estás modalidades. Las tres órbitas en verde, naranja y amarillo representan la integración armoniosa de estas áreas científicas, reflejando la diversidad y vitalidad del aprendizaje. Se disponen a modo de orbitas simbolizando el modelo atómico de Bohr. Este diseño trata de relacionar entre la diversión y el conocimiento a través de los ojos.
 
+![](https://mediateca.educa.madrid.org/imagen.php?id=zonoxeo7yeg7t5u9&type=2&m=550){width="550" height="550" style="border:0"}
 
+Logotipo de la propia palabra "STEM" de un moco verde como si se hubiera producido un experimento químico bastante fosforescente.
 
-Logo 2:
+![](https://mediateca.educa.madrid.org/imagen.php?id=feafgnewe5meqixz&type=2&m=550){width="550" height="550" style="border:0"}
 
-El segundo logo del proyecto STEM es una  representación visual que muestra la relación entre la química inorgánica y las siglas del proyecto. Las tonalidades de turquesa indican un estado pacífico y tranquilo como lo es el proyecto STEM que trata de estimular a los alumnos a poseer curiosidad por la ciencia.
+El logotipo es una especie de átomo: el matraz hace de núcleo (haciendo referencia a física) y dentro de el un árbol y la tierra de compostaje (biología) y los electrones en las órbitas son signos matemáticos.
 
+::: {.callout-caution style="background: white"}
+🏗️ ***Página en construcción***
+:::
