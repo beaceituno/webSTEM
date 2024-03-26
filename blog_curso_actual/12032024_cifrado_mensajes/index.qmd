@@ -53,10 +53,8 @@ Monta el disco de cifrado César y decodifica el mensaje.
 Cifrado César: Claves por cada frase: 3, 6, 9, 12, 15
 :::
 
-:::{layout-ncol=2}
-
+::: {layout-ncol="2"}
 ![](./images/trabajando_cifrado_1.jpg)
 
 ![](./images/trabajando_cifrado_2.jpg)
-
 :::

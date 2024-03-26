@@ -27,34 +27,56 @@ Los ganadores y las explicaciones, dadas por los autores, sobre su diseño son l
 
 #### Primer premio
 
-![](https://mediateca.educa.madrid.org/imagen.php?id=df5c3rwtkfgfw4fv&m=550&type=2){width="550" height="550" style="border:0"}
+![](./images/logo_1_color.png){fig-align="center"}
+
+*"El logotipo para el club STEM representa los cuatro ámbitos en el que el club STEM está basado (ciencia, tecnología, ingeniería y matemáticas). Por ejemplo, vemos que la parte de tecnología está representada con las simbólicas líneas del bus de la placa madre a la izquierda del logo. Además, el ámbito de matemáticas está representado con el cartabón también localizado a la izquierda del logo. Si nos movemos a las ciencias, podemos observar que está representado con el tubo de ensayo en el centro del logotipo. Y por último, la ingeniería está representada con el engranaje localizado a la izquierda del logo."*
+
+El logo se presentó en diversos formatos para su utilización en una variedad de contextos y propósitos.
+
+::: {layout-ncol="2"}
+![Negro](./images/logo_1_negro.gif)
+
+![sello](./images/logo_1_sello.gif)
+
+![Encabezado](./images/logo1_encabezado.png)
+
+![Negro grande](./images/logo_1_negro_grande.png)
+:::
 
 #### Segundo premio
 
-![](https://mediateca.educa.madrid.org/imagen.php?id=nrpwpumfa8gvmxlc&type=2&m=550){width="550" height="550" style="border:0"}
+![](./images/logo_2.jpg){fig-align="center"}
+
+*"La idea inicial del logo ha sido creada por la IA pero como no representaba la imagen descrita he realizado modificaciones con GIMP. El slogan es parte del mensaje de Marie Curie, "Nada en la vida debe ser temido, solamente comprendido. Ahora es el momento de comprender más para temer menos", y nosotros tenemos ahora todas las herramientas para comprender mejor el mundo que nos rodea. La manzana en el centro y con un color sólido significa “el inicio de todo”, de todos los saberes científicos (Isaac Newton), informáticos (Steve Jobs) y matemáticos (Alan Turing). Los dibujos que rodean a la manzana aluden a las cuatro áreas del acrónimo STEM: ciencia, tecnología, ingeniería y matemáticas."*
 
 #### Tercer premio
 
-![](https://mediateca.educa.madrid.org/imagen.php?id=w4dbgfnetmz6neg1&type=2&m=550){width="550" height="550" style="border:0"}
+![](./images/logo_3.png){fig-align="center"}
 
-El logo del proyecto STEM es una representación visual que muestra la relación entre la química inorgánica y las siglas del proyecto. Las tonalidades de turquesa indican un estado pacífico y tranquilo como lo es el proyecto STEM que trata de estimular a los alumnos a poseer curiosidad por la ciencia.
+*"El logo del proyecto STEM es una representación visual que muestra la relación entre la química inorgánica y las siglas del proyecto. Las tonalidades de turquesa indican un estado pacífico y tranquilo como lo es el proyecto STEM que trata de estimular a los alumnos a poseer curiosidad por la ciencia."*
 
 ### Otros logos presentados
 
 A continuación, se muestran el resto de los logotipos presentados por los alumnos, cada uno acompañado de su respectiva explicación sobre el diseño:
 
-![](https://mediateca.educa.madrid.org/imagen.php?id=f7z45xy57pejzqxf&m=550&type=2){width="550" height="550" style="border:0"}
+![](./images/logo_7.png){fig-align="center"}
 
-El primer logo propuesto, encapsula la esencia del proyecto STEM que fusiona la química y la ciencia con juegos didácticos. La palabra "STEM" en mayúsculas y en negro, simboliza las disciplinas STEM (Ciencia, Tecnología, Ingeniería y Matemáticas)y el misterio que muestran estás modalidades. Las tres órbitas en verde, naranja y amarillo representan la integración armoniosa de estas áreas científicas, reflejando la diversidad y vitalidad del aprendizaje. Se disponen a modo de orbitas simbolizando el modelo atómico de Bohr. Este diseño trata de relacionar entre la diversión y el conocimiento a través de los ojos.
+*"El logo propuesto, encapsula la esencia del proyecto STEM que fusiona la química y la ciencia con juegos didácticos. La palabra "STEM" en mayúsculas y en negro, simboliza las disciplinas STEM (Ciencia, Tecnología, Ingeniería y Matemáticas)y el misterio que muestran estás modalidades. Las tres órbitas en verde, naranja y amarillo representan la integración armoniosa de estas áreas científicas, reflejando la diversidad y vitalidad del aprendizaje. Se disponen a modo de orbitas simbolizando el modelo atómico de Bohr. Este diseño trata de relacionar entre la diversión y el conocimiento a través de los ojos."*
 
-![](https://mediateca.educa.madrid.org/imagen.php?id=zonoxeo7yeg7t5u9&type=2&m=550){width="550" height="550" style="border:0"}
+![](./images/logo_8.png){fig-align="center"}
 
-Logotipo de la propia palabra "STEM" de un moco verde como si se hubiera producido un experimento químico bastante fosforescente.
+*"Logotipo de la propia palabra "STEM" de un moco verde como si se hubiera producido un experimento químico bastante fosforescente."*
 
-![](https://mediateca.educa.madrid.org/imagen.php?id=feafgnewe5meqixz&type=2&m=550){width="550" height="550" style="border:0"}
+![](./images/logo_9.png){fig-align="center"}
 
-El logotipo es una especie de átomo: el matraz hace de núcleo (haciendo referencia a física) y dentro de el un árbol y la tierra de compostaje (biología) y los electrones en las órbitas son signos matemáticos.
+*"El logotipo es una especie de átomo: el matraz hace de núcleo (haciendo referencia a física) y dentro de el un árbol y la tierra de compostaje (biología) y los electrones en las órbitas son signos matemáticos."*
 
-::: {.callout-caution style="background: white"}
-🏗️ ***Página en construcción***
-:::
+![](./images/logo_4.gif){fig-align="center"}
+
+![](./images/logo_5.jpg){fig-align="center"}
+
+![](./images/logo_6.png){fig-align="center"}
+
+*"Hemos realizado este diseño de logotipo para el club STEM y creemos que está bastante relacionado con el tema propuesto. Además, estamos bastante satisfechos con el resultado, por lo que esperemos que os guste."*
+
+
