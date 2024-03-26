@@ -1,0 +1,62 @@
+---
+title: "¿Cómo funciona el cifrado de mensajes?"
+description: Cómo diseñar sistemas que aseguren la seguridad y confidencialidad de la información.
+date: '03-12-2024'
+draft: false
+editor: source
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Encryption_device%2C_probably_German%2C_before_1587%2C_severely_damaged_in_1945_-_Mathematisch-Physikalischer_Salon%2C_Dresden_-_DSC08038.JPG/640px-Encryption_device%2C_probably_German%2C_before_1587%2C_severely_damaged_in_1945_-_Mathematisch-Physikalischer_Salon%2C_Dresden_-_DSC08038.JPG
+categories: 
+  - 2023/24
+  - Actividad
+  - Matemáticas
+---
+
+### Objetivo
+
+Explorar los fundamentos de la criptografía a través del estudio del cifrado César.
+
+### Duración
+
+2 recreos de 20 minutos.
+
+### Materiales
+
++--------------------------------+-----------------------------------------------+
+| -   Plantilla disco de cifrado | ![](images/material_cifrado.jpg){width="200"} |
+|                                |                                               |
+| -   Tijeras                    |                                               |
+|                                |                                               |
+| -   Pegamento                  |                                               |
+|                                |                                               |
+| -   Encuadernador              |                                               |
++--------------------------------+-----------------------------------------------+
+
+### Actividad
+
+La criptografía es el arte de escribir con clave secreta o de un modo enigmático. Crypto, en griego, significa oculto, secreto. La criptografía es muy antigua, está estrechamente vinculada en la actualidad con las Matemáticas y a la Informática.
+
+Existen distintos métodos para codificar y decodificar mensajes. El proceso de codificar un mensaje se llama **encriptación**, hay muchos sistemas para llevarlo a cabo. Uno de ellos es el **cifrado César** que consiste en sustituir cada letra del abecedario por una letra desplazada un número determinado de posiciones **(clave)**.
+
+Consulta la [explicación y ejemplos del cifrado César y obtén el disco de cifrado descargable](https://eduescaperoom.com/ejemplos-de-uso-del-cifrado-cesar-en-un-escape-room-educativo/).
+
+A llegado el momento de practicar:
+
+Monta el disco de cifrado César y decodifica el mensaje.
+
+::: {.callout-note title="Descifrar el siguiente mensaje" appearance="minimal"}
+¿Quiénes fueron los culpables? ¡Djhpwhv! Estuvimos buscando sru wrgdv ñdv capitales de Hxursd. Comenzamos nuestro viaje por Xurg, donde iurñruy una pizza. Después volamos a Yjaqb, la capital del país con la bandera jidt, ktjvlj y axrj. Y finalmente acabamos en el TPE Ugmy op Mairena. Zdh qjzeopzsh voptob hwrd zdh wbiszwusbish rsisqiwksh rs zo ousbqwo HISA.
+:::
+
+::: {.callout-tip title="Solución" appearance="minimal" collapse="true"}
+¡Agentes! Estuvimos buscando por todas las capitales de Europa. Comenzamos nuestro viaje por Roma, donde comimos una pizza. Después volamos a París, la capital del país con la bandera azul, blanca y roja. Y finalmente acabamos en el IES Juan de Mairena. Los culpables habían sido los inteligentes detectives de la agencia STEM.
+
+Cifrado César: Claves por cada frase: 3, 6, 9, 12, 15
+:::
+
+:::{layout-ncol=2}
+
+![](./images/trabajando_cifrado_1.jpg)
+
+![](./images/trabajando_cifrado_2.jpg)
+
+:::
