@@ -1,0 +1,68 @@
+---
+title: "¿Cómo funciona un aerogenerador?"
+description: Cómo transformar energía mecánica en energía eléctrica.
+date: '03-19-2024'
+draft: false
+editor: source
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Power_County_Wind_Farm_002.jpg/640px-Power_County_Wind_Farm_002.jpg
+categories: 
+  - 2023/24
+  - Actividad
+  - Tecnología
+---
+
+### Objetivo
+
+Descubrir el funcionamiento de un aerogenerador.
+
+Los estudiantes aprenden cómo los ingenieros transforman la energía eólica en energía eléctrica construyendo sus propios aerogeneradores en miniatura y midiendo la corriente eléctrica que producen. Exploran cómo el diseño afecta la producción de energía eléctrica.
+
+### Duración
+
+2 recreos de 20 minutos.
+
+### Materiales
+
++----------------------------+-------------------------------------+
+| -   Motor  eléctrico       | ![](images/clipboard-754080206.png) |
+|                            |                                     |
+| -   Diodo LED              |                                     |
+|                            |                                     |
+| -   Pinzas de cocodrilo    |                                     |
+|                            |                                     |
+| -   Cables                 |                                     |
+|                            |                                     |
+| -   Polímetro              |                                     |
+|                            |                                     |
+| -   Cartón                 |                                     |
+|                            |                                     |
+| -   Tapón                  |                                     |
+|                            |                                     |
+| -   Pegamento termofusible |                                     |
++----------------------------+-------------------------------------+
+
+### Actividad
+
+¿Alguna vez has sentido un viento realmente fuerte?¿Alguna vez has sentido que el viento te empuja? El viento puede realizar trabajo para nosotros. Por ejemplo, cuando el viento mueve las palas de un aerogenerador, el aerogenerador produce electricidad.
+
+Para transformar la energía del viento en electricidad, las aspas del aerogenerador hacen girar un imán dentro de una bobina, induciendo en esta una corriente eléctrica. En esencia, un generador es como un motor conectado al revés. En lugar de conectar una batería al motor para inducir movimiento, en un aerogenerador el motor está conectado al movimiento de las aspas, generando así electricidad. La cantidad de electricidad producida (voltaje) se puede medir utilizando un voltímetro. 
+
+Hoy vamos a actuar como si fuéramos ingenieros y crear aerogeneradores a pequeña escala que conviertan la energía eólica (que generaremos con un secador de pelo) en energía eléctrica (voltaje). Luego, mediremos cómo la velocidad del viento afecta a nuestros pequeños aerogeneradores. Esto nos ayudará a comprender lo que los ingenieros necesitan saber al diseñar y ubicar aerogeneradores en los mejores lugares.
+
+### Procedimiento
+
+1.- Para el montaje de las conexiones, empleamos pinzas de cocodrilo que se conectan mediante cable unifilar. Unimos las pinzas de color rojo con un cable y las de color negro con otro. Estas serán utilizadas para conectar el motor eléctrico con el LED..
+
+![Conexiones](./images/conexionesled_motor.jpg){width="200"}
+
+2.- Construimos una hélice con un tapón de una botella de refresco y tres piezas de cartón. Construimos un soporte.
+
+![Hélice](./images/helice.jpg){width="200"}
+
+3.-  Comprobamos con un polímetro que al hacer girar el rotor del motor se genera una pequeña tensión.
+
+![Medida del voltaje](./images/maqueta.jpg){width="200"}
+
+4.- Conectamos un led al aerogenerador para comprobar su funcionamiento.
+
+{{< video https://www.youtube.com/watch?v=3V7a_taSei0 >}}

@@ -7,7 +7,7 @@ section-title-footnotes: "Notas"
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Royal_presentation_octant%2C_made_by_Jean_Baptiste_Magnie%2C_dedicated_to_King_Louis_XVI%2C_c._1786%2C_brass%2C_mahogany%2C_glass_-_Peabody_Essex_Museum_-_DSC06648.jpg/640px-Royal_presentation_octant%2C_made_by_Jean_Baptiste_Magnie%2C_dedicated_to_King_Louis_XVI%2C_c._1786%2C_brass%2C_mahogany%2C_glass_-_Peabody_Essex_Museum_-_DSC06648.jpg
 categories: 
   - 2023/24
-  - Actividades
+  - Actividad
   - Matemáticas
 ---
 

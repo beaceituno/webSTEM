@@ -7,7 +7,7 @@ editor: source
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/TMW_50906_Schnittmodell_einer_Drehstrommaschine_%28Asynchronmaschine%29.jpg/640px-TMW_50906_Schnittmodell_einer_Drehstrommaschine_%28Asynchronmaschine%29.jpg
 categories: 
   - 2023/24
-  - Actividades
+  - Actividad
   - Tecnología
 ---
 

@@ -6,7 +6,7 @@ editor: source
 image: cartelPresentcionComoFunciona.png
 categories: 
   - 2023/24
-  - Actividades
+  - Actividad
 ---
 
 ## Actividades realizadas
