@@ -23,10 +23,25 @@ resources:
 
 ## Próximas actividades
 
->#### 🌀 Recreos de los martes 19 de marzo y 2 de abril: 
->- Actividad: [[¿Cómo funciona un aerogenerador?]{.underline}]{.smallcaps}
-> -   Organiza: Departamento de Tecnología.
+> #### 💸 Recreos de los martes 9 y 16 de abril:
+>
+> -   Actividad: [[¿Cómo funcionan los bancos?]{.underline}]{.smallcaps}
+> -   Organiza: Departamento de Economía.
 
+## Novedades
+
+::: {.callout-important style="background: white"}
+## Concurso de podcast científicos STEMadrid+
+
+El IES Juan de Mairena participa en el concurso de podcast científicos con STEMadrid+. Hemos subido nuestro podcast sobre Ada Lovelace a la plataforma Voces del Aula, compitiendo por el título al podcast más popular. Tanto estudiantes, como profesores pueden acceder con su usuario de Educamadrid para escuchar y disfrutar de nuestro trabajo.
+
+¡La competencia está reñida y necesitamos tu ayuda! ¡Cada reproducción cuenta! En tan una semana finaliza el concurso, así que no pierdas tiempo.
+
+¿Te animas a escuchar nuestro podcast y darle un like? ¡Te comparto el enlace para que te sumes a esta emocionante aventura científica con nosotros! Espero que os guste.
+
+[Pincha aquí para acceder al préstamo y escuchar el podcast](https://stemadridplus.educa.madrid.org/info/caminantes-del-mas-alla-ada-lovelace-00201163)
+
+:::
 
 <!-- ::: {.callout-important style="background: white"} -->
 

@@ -11,6 +11,10 @@ categories:
 
 ## Actividades realizadas
 
+>#### 🌀 Recreos de los martes 19 de marzo y 2 de abril: 
+>- Actividad: [[¿Cómo funciona un aerogenerador?]{.underline}]{.smallcaps}
+> -   Organiza: Departamento de Tecnología.
+
 > #### 📜 Recreos de los martes 5 y 12 de marzo:
 >
 > -   Actividad: [[¿Cómo funciona el cifrado de mensajes?]{.underline}]{.smallcaps}
@@ -60,10 +64,6 @@ categories:
 
 Estas actividades se van a realizar durante el presente curso. Para no perderte ninguna, presta atención a las fechas de convocatoria que se publicarán en la página de inicio de esta web y en el tablón de anuncios STEM del centro.
 
->#### 🌀 Recreos de los martes 19 de marzo y 2 de abril: 
->- Actividad: [[¿Cómo funciona un aerogenerador?]{.underline}]{.smallcaps}
-> -   Organiza: Departamento de Tecnología.
-
 >#### 💸 Recreos de los martes 9 y 16 de abril:
 > - Actividad: [[¿Cómo funcionan los bancos?]{.underline}]{.smallcaps}
 > -   Organiza: Departamento de Economía.
@@ -72,6 +72,7 @@ Estas actividades se van a realizar durante el presente curso. Para no perderte 
 > - Actividad: [[¿Cómo funciona la evapotranspiración?]{.underline}]{.smallcaps}
 > -   Organiza: Departamento de Biología y Geología.
 
-> -   📱 Actividad: [[¿Cómo funcionan las app y la inteligencia artificial?]{.underline}]{.smallcaps}
+>#### 📱 Recreos de los martes 7 y 14 de mayo:
+>- Actividad: [[¿Cómo funcionan el aprendizaje automático de la inteligencia  artificial?]{.underline}]{.smallcaps}
 >
 > -   Organiza: Departamento de Tecnología.
