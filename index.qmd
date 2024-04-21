@@ -23,7 +23,7 @@ resources:
 
 ## Próximas actividades
 
-> #### 💸 Recreos de los martes 9 y 16 de abril:
+> #### 💸 Recreos de los martes 9, 16 y 23 de abril:
 >
 > -   Actividad: [[¿Cómo funcionan los bancos?]{.underline}]{.smallcaps}
 > -   Organiza: Departamento de Economía.
@@ -40,7 +40,6 @@ El IES Juan de Mairena participa en el concurso de podcast científicos con STEM
 ¿Te animas a escuchar nuestro podcast y darle un like? ¡Te comparto el enlace para que te sumes a esta emocionante aventura científica con nosotros! Espero que os guste.
 
 [Pincha aquí para acceder al préstamo y escuchar el podcast](https://stemadridplus.educa.madrid.org/info/caminantes-del-mas-alla-ada-lovelace-00201163)
-
 :::
 
 <!-- ::: {.callout-important style="background: white"} -->
