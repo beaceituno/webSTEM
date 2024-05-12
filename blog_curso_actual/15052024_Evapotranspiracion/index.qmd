@@ -1,0 +1,30 @@
+---
+title: "¿Cómo funciona la evapotranspiración?"
+description: Cómo se transfiere el agua en las plantas.
+date: '05-15-2024'
+draft: false
+editor: source
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Beech_and_ferns_in_Gullmarsskogen.jpg/640px-Beech_and_ferns_in_Gullmarsskogen.jpg
+categories: 
+  - 2023/24
+  - Biología
+  - Actividad
+---
+
+### Objetivo
+
+
+
+### Duración
+
+2 recreos de 20 minutos.
+
+### Materiales
+
+
+### Actividad
+
+
+::: {.callout-caution style="background: white"}
+🏗️ ***Página en construcción***
+:::

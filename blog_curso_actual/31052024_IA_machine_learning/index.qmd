@@ -1,14 +1,14 @@
 ---
 title: "¿Cómo funciona la gravedad?"
 description: Cómo medir el valor de la gravedad.
-date: '02-25-2024'
-draft: false
+date: '05-31-2024'
+draft: true
 editor: source
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Acceleration-due-to-Gravity-on-Earth.png/640px-Acceleration-due-to-Gravity-on-Earth.png
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Artificial-Intelligence.jpg/640px-Artificial-Intelligence.jpg
 categories: 
   - 2023/24
   - Actividad
-  - Física
+  - Tecnología
 ---
 
 ### Objetivo

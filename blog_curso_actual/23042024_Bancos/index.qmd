@@ -1,0 +1,30 @@
+---
+title: "¿Cómo funcionan los bancos?"
+description: Cómo se genera el dinero.
+date: '04-24-2024'
+draft: false
+editor: source
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bank_Run_on_American_Union_Bank.jpeg/640px-Bank_Run_on_American_Union_Bank.jpeg
+categories: 
+  - 2023/24
+  - Juego
+  - Economía
+---
+
+### Objetivo
+
+
+
+### Duración
+
+3 recreos de 20 minutos.
+
+### Materiales
+
+
+### Actividad
+
+
+::: {.callout-caution style="background: white"}
+🏗️ ***Página en construcción***
+:::
