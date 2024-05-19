@@ -10,4 +10,4 @@ listing:
   categories: true
 ---
 
-La temática de este curso es [**"Cómo funciona?"**]{.smallcaps}
+La temática de este curso es [**"¿Cómo funciona?"**]{.smallcaps}
