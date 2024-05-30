@@ -1,0 +1,34 @@
+---
+title: "¿Cómo funciona la gravedad?"
+description: Cómo medir el valor de la gravedad.
+date: '02-23-2024'
+draft: false
+editor: source
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Acceleration-due-to-Gravity-on-Earth.png/640px-Acceleration-due-to-Gravity-on-Earth.png
+categories: 
+  - 2023/24
+  - Actividad
+  - Física
+---
+
+### Objetivo
+
+Experimentar con caídas libres de objetos para estudiar la aceleración de la gravedad.
+
+### Duración
+
+2 recreos de 20 minutos.
+
+<!-- ### Materiales -->
+
+
+### Actividad
+
+Después de una breve explicación teórica, los alumnos por parejas dejaron caer una pelota de tenis desde una altura (medida previamente) y midiendo el tiempo que tarda en caer al suelo.
+
+Con los datos tomados calculamos la aceleración con la que han caído y que se corresponde con la aceleración de la gravedad.
+
+
+<!-- ::: {.callout-caution style="background: white"} -->
+<!-- 🏗️ ***Página en construcción*** -->
+<!-- ::: -->

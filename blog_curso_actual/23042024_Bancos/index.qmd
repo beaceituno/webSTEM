@@ -13,7 +13,7 @@ categories:
 
 ### Objetivo
 
-
+Comprender cómo se crea el dinero bancario y cómo funciona el sistema bancario.Este role play proporciona una experiencia práctica y participativa que ayuda a los alumnos a comprender de manera más profunda el proceso de creación de dinero bancario y el funcionamiento del sistema bancario en general.
 
 ### Duración
 
@@ -21,10 +21,44 @@ categories:
 
 ### Materiales
 
+-   Cartulinas y badges distintivos con los roles asignados.
+-   Escenario simulado de un banco (escritorios, sillas, caja registradora, etc.).
+-   Billetes y monedas falsas para simular el dinero.
+-   Cartulinas del banco A y B para realizar las anotaciones de ingresos y retiradas de fondos.
+-   Pizarra o papel grande para anotar ideas clave.
 
 ### Actividad
 
+#### Sesión 1:
 
-::: {.callout-caution style="background: white"}
-🏗️ ***Página en construcción***
-:::
+##### Introducción teórica:
+sobre formas de dinero, la autoridad monetaria y funcionamiento del sistema bancario. El profesor presenta la situación inicial explicando que los participantes interpretarán distintos roles relacionados con un banco y sus clientes. 
+
+##### Preparación de los roles: 
+los alumnos se organizan en grupos y reciben las instrucciones sobre sus roles, así como los materiales necesarios para interpretarlos. Los roles asignados son:
+
+1.  **Presentador:** Encargado de presentar la situación inicial y guiar el desarrollo del role play.
+
+2.  **Comité de riesgos:** Responsable de supervisar las operaciones de préstamo y tomar decisiones.
+
+3.  **Equipo de contabilidad:** Encargado de anotar las operaciones en el balance y aportar las reservas.
+
+4.  **Cajero:** Encargado de recibir los depósitos y abonar los préstamos autorizados.
+
+5.  **Cliente 1 al 9:** Personas que acuden al banco para depositar dinero y solicitar un préstamo.
+
+#### Sesión 2 y 3:
+
+##### Escenificación:
+
+Los alumnos llevan a cabo el role play en el escenario simulado del banco. El cajero recibe depósitos, concede préstamos y realiza transacciones bancarias según las solicitudes de los clientes. El gerente supervisa las operaciones y toma decisiones importantes. El auditor observa las transacciones y verifica el balance del banco.
+
+##### Reflexión y discusión:
+
+Después de la escenificación, los alumnos se reúnen para discutir lo que han aprendido. Se plantean preguntas como: ¿Cómo se crea el dinero bancario? ¿Cuál es el papel del banco en la economía? ¿Qué riesgos y beneficios tiene el sistema bancario? Se fomenta el debate y la reflexión sobre el tema.
+
+##### Conclusión:
+
+El profesor concluye el role play destacando los puntos clave aprendidos.
+
+

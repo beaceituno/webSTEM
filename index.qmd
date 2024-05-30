@@ -23,8 +23,9 @@ resources:
 
 ## Próximas actividades
 
->#### 📱 Recreos de los martes 21 y 28 de mayo:
->- Actividad: [[¿Cómo funcionan el aprendizaje automático de la inteligencia  artificial?]{.underline}]{.smallcaps}
+> #### 📱 Recreos de los martes 21 y 28 de mayo:
+>
+> -   Actividad: [[¿Cómo funcionan el aprendizaje automático de la inteligencia artificial?]{.underline}]{.smallcaps}
 >
 > -   Organiza: Departamento de Tecnología.
 
@@ -32,12 +33,9 @@ resources:
 La actividad tendrá lugar en el aula 301.
 :::
 
-
 ## Novedades
 
 ::: {.callout-important style="background: white"}
-
-
 ## Concurso de podcast científicos STEMadrid+
 
 El IES Juan de Mairena participa en el concurso de podcast científicos con STEMadrid+. Hemos subido nuestro podcast sobre Ada Lovelace a la plataforma Voces del Aula, compitiendo por el título al podcast más popular. Tanto estudiantes, como profesores pueden acceder con su usuario de Educamadrid para escuchar y disfrutar de nuestro trabajo.

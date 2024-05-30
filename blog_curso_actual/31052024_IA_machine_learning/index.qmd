@@ -1,8 +1,8 @@
 ---
-title: "¿Cómo funciona la gravedad?"
-description: Cómo medir el valor de la gravedad.
+title: "¿Cómo funciona la Inteligencia Artificial?"
+description: Cómo entrenar una maquina con aprendizaje automático.
 date: '05-31-2024'
-draft: true
+draft: false
 editor: source
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Artificial-Intelligence.jpg/640px-Artificial-Intelligence.jpg
 categories: 

@@ -12,19 +12,32 @@ categories:
 ---
 
 ### Objetivo
-
-
+Conocer experimentalmente el proceso de pérdida de agua en las plantas a través de las hojas (evapotranspiración) en distintas condiciones ambientales.
 
 ### Duración
 
 2 recreos de 20 minutos.
 
 ### Materiales
+- Hojas y tallo de plantas (puerro y otras plantas).
 
+- Tubos conductores de agua.
+
+- Probetas.
+
+- Tinte (azul de metileno).
 
 ### Actividad
+La práctica se ha desarrollado en dos recreos en dos días diferentes:
+
+#### Sesión 1
+Comprobamos el proceso de pérdida de agua en las hojas de una planta sometida a distintas condiciones medioambientales (exposición directa al sol, a la sombra y en oscuridad). Valoramos la influencia de estos parámetros en el proceso de evapotranspiración.
+
+#### Sesión 2
+Mediante agua coloreada con azul de metileno comprobaremos cómo ha bajado en nivel de agua en una planta expuesta en el exterior debido a dicho proceso. Determinaremos la cantidad de agua evapotranspirada en un tiempo determinado de exposición.
 
 
-::: {.callout-caution style="background: white"}
-🏗️ ***Página en construcción***
-:::
+
+<!-- ::: {.callout-caution style="background: white"} -->
+<!-- 🏗️ ***Página en construcción*** -->
+<!-- ::: -->
