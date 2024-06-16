@@ -13,7 +13,7 @@ categories:
 
 ### Objetivo
 
-
+Dar una visión general sobre qué es la inteligencia artificial y cómo funciona.
 
 ### Duración
 
@@ -21,10 +21,95 @@ categories:
 
 ### Materiales
 
+-   Ordenador con cámara web.
+
+-   Papel y lápiz.
 
 ### Actividad
 
+#### ¿Qué es la inteligencia artificial?
 
-::: {.callout-caution style="background: white"}
-🏗️ ***Página en construcción***
-:::
+Es cuando las computadoras hacen tareas que normalmente requieren inteligencia humana, como aprender y tomar decisiones.
+
+#### Los pilares de la IA
+
+El desarrollo de la IA se basa en estos 6 campos:
+
+1.  **Aprendizaje Automático (Machine Learning):** Permite a las computadoras aprender de los datos y mejorar con el tiempo sin ser programadas explícitamente. Ejemplo: los sistemas de recomendación de Netflix que sugieren películas y series basadas en tus preferencias y comportamiento de visualización.
+
+2.  **Procesamiento del Lenguaje Natural (NLP)**: Ayuda a las computadoras a entender, interpretar y generar lenguaje humano. Ejemplo:los asistentes virtuales como Siri o Alexa, que pueden entender y responder a preguntas en lenguaje natural.
+
+3.  **Visión por Computadora:** Permite a las computadoras interpretar y entender imágenes y videos. Ejemplo:los sistemas de reconocimiento facial utilizados en los teléfonos inteligentes para desbloquear el dispositivo.
+
+4.  **Robótica:** Involucra el diseño y uso de robots que pueden realizar tareas físicas. Ejemplo: los robots aspiradores, como Roomba, que pueden moverse y limpiar de manera autónoma.
+
+5.  **Sistemas Expertos:** Emulan la toma de decisiones de un experto humano en áreas específicas. Ejemplo: las herramientas de diagnóstico médico que ayudan a los médicos a identificar enfermedades basándose en los síntomas y datos médicos del paciente.
+
+6.  **Inteligencia Artificial General (AGI):** Busca desarrollar sistemas con capacidades cognitivas amplias y versátiles, similares a las humanas. Aún en desarrollo, pero un ejemplo hipotético sería una IA que pueda aprender y realizar cualquier tarea intelectual que un humano pueda hacer, adaptándose a diferentes situaciones como lo haría una persona. Por ejemplo un tutor educativo que te explica cualquier materia según tu nivel y estilo de aprendizaje.
+
+#### ¿Qué es Machine Learning o aprendizaje automático?
+
+Es una rama de la informática que desarrolla programas capaces de aprender y tomar decisiones basadas en datos, sin necesidad de ser programados específicamente para cada tarea.
+
+Estos programas analizan grandes cantidades de datos, encuentran patrones y usan esa información para hacer cosas como reconocer imágenes o hacer predicciones.
+
+En la **programación clásica**:
+
+![](images/programacionClasica.png){fig-aling="center" width="center"}
+
+Con **aprendizaje automático**:
+
+![](images/programacionMachineLearning.png){fig-aling="center" width="center"}
+
+#### Tipos de ML o aprendizaje automático
+
+1.  **Aprendizaje Supervisado**: Es como aprender con un maestro. Enseñas a la computadora con ejemplos etiquetados Ejemplo: mostrar fotos de perros y decirle que son perros. Luego, la computadora puede identificar perros en nuevas fotos por sí misma.
+
+![](images/aprendizajeSupervisado.png){fig-align="center"}
+
+2.  **Aprendizaje No Supervisado:** la computadora aprende sin un maestro. Le das un montón de datos sin etiquetar y le pides que encuentre patrones por sí misma. Ejemplo: Agrupación de fotos en tu teléfono: la computadora analiza las fotos en tu teléfono y las agrupa automáticamente en categorías, como "vacaciones", "cumpleaños" y "mascotas", sin que le digamos de antemano qué categoría es cada una.
+
+![](images/aprendizajeNoSupervisado.png){fig-align="center" width="300"}
+
+3.  **Aprendizaje por Refuerzo:** Es como enseñar a una mascota con golosinas. La computadora toma decisiones y recibe recompensas o castigos según lo que haga bien o mal. Con el tiempo, aprende a tomar las decisiones correctas para obtener más recompensas. Ejemplo: Entrenamiento de un agente virtual (robot) para jugar un videojuego: el agente virtual toma decisiones (como moverse en el juego) y recibe recompensas (como puntos) según su desempeño en el juego. Con el tiempo, el agente aprende a tomar las decisiones que maximizan sus recompensas, como evitar obstáculos y alcanzar objetivos en el juego.
+
+![](images/aprendizajePorRefuerzo.png){fig-align="center" width="300"}
+
+#### ¿Qué vamos a hacer?
+
+Crearemos un modelo de inteligencia artificial, usando [Machine Learning for Kids](https://machinelearningforkids.co.uk/), que sea capaz de reconocer formas diferentes, por ejemplo cuadrados, círculos y triángulos y la emplearemos en un programa de Scratch para que un personaje reconozca las formas al mostrárselas por la cámara. Podemos usar lápiz y papel para dibujar las fomas.
+
+#### Pasos a seguir
+
+1.  Recolección de datos y etiquetado:
+
+-   Datos: Son la información que usamos para enseñar a las computadoras. Por ejemplo, si queremos que una computadora reconozca fotos de gatos y perros, los datos serían muchas fotos diferentes de gatos y perros.
+
+-   Etiquetas: Son las descripciones o nombres que damos a los datos. Siguiendo con el ejemplo, cada foto de un gato tendría una etiqueta que dice "gato". Si también tenemos fotos de perros, esas fotos tendrían la etiqueta "perro".
+
+En nuestro caso debemos recopilar imagenes de triángulos, círculos y cuadrados y etiquetarlos.
+
+![](images/formas.png){fig-align="center"}
+
+2.  **Entrenamiento del modelo:** La computadora analiza todas las imágenes de las diferentes formas y aprende las diferencias entre ellas. Utiliza un algoritmo para analizar las imágenes y encontrar patrones en las etiquetas (triángulo, círculo y cuadrado). El algoritmo ajusta los parámetros del modelo para aprender a distinguir entre las imágenes. A medida que el entrenamiento progresa, se crea el modelo.
+
+![](images/modelo.png){fig-align="center"}
+
+3. **Prueba del modelo:**
+Has entrenado tu modelo y quieres ver si funciona bien.
+Subes nuevas imágenes de diferentes figuras, que la computadora no ha visto antes y le pides que las identifique. La computadora usará lo que aprendió durante el entrenamiento para hacer su mejor predicción.
+Verificas la precisión del modelo y ajustas si es necesario.
+
+4. **Uso del modelo:**
+Tu modelo está listo para usarse.
+Puedes integrarlo en un proyecto, como un juego que reconozca los dibujos que haces o una aplicación que clasifique imágenes. Cada vez que subas una nueva imagen, el modelo intentará adivinar si es un círculo, un cuadrado o un triángulo basándose en lo que aprendió.
+
+![](images/usoModelo.png){fig-align="center"}
+
+Utilizaremos Scratch para usar nuestro modelo.
+
+![](images/codigoScratch.png){fig-align="center"}
+
+<!-- ::: {.callout-caution style="background: white"} -->
+<!-- 🏗️ ***Página en construcción*** -->
+<!-- ::: -->
