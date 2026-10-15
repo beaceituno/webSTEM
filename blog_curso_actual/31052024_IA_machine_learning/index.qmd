@@ -1,11 +1,11 @@
 ---
 title: "¿Cómo funciona la Inteligencia Artificial?"
-description: Cómo entrenar una maquina con aprendizaje automático.
+description: Cómo entrenar una máquina con aprendizaje automático.
 date: '05-31-2024'
 draft: false
 editor: source
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Artificial-Intelligence.jpg/640px-Artificial-Intelligence.jpg
-categories: 
+categories:
   - 2023/24
   - Actividad
   - Tecnología
@@ -13,7 +13,7 @@ categories:
 
 ### Objetivo
 
-Dar una visión general sobre qué es la inteligencia artificial y cómo funciona.
+Dar una visión general sobre qué es la inteligencia artificial y cómo funciona, y entrenar nuestro propio modelo de aprendizaje automático.
 
 ### Duración
 
@@ -22,94 +22,97 @@ Dar una visión general sobre qué es la inteligencia artificial y cómo funcion
 ### Materiales
 
 -   Ordenador con cámara web.
-
 -   Papel y lápiz.
 
 ### Actividad
 
 #### ¿Qué es la inteligencia artificial?
 
-Es cuando las computadoras hacen tareas que normalmente requieren inteligencia humana, como aprender y tomar decisiones.
+La inteligencia artificial (IA) consiste en que los ordenadores realicen tareas que normalmente requieren inteligencia humana, como aprender, reconocer patrones o tomar decisiones.
 
 #### Los pilares de la IA
 
-El desarrollo de la IA se basa en estos 6 campos:
+El desarrollo de la IA se apoya en estos campos principales:
 
-1.  **Aprendizaje Automático (Machine Learning):** Permite a las computadoras aprender de los datos y mejorar con el tiempo sin ser programadas explícitamente. Ejemplo: los sistemas de recomendación de Netflix que sugieren películas y series basadas en tus preferencias y comportamiento de visualización.
+1.  **Aprendizaje automático (Machine Learning):** permite a los ordenadores aprender a partir de datos y mejorar con la experiencia sin ser programados explícitamente para cada caso. Ejemplo: los sistemas de recomendación de Netflix, que sugieren películas y series según tus preferencias y lo que has visto.
 
-2.  **Procesamiento del Lenguaje Natural (NLP)**: Ayuda a las computadoras a entender, interpretar y generar lenguaje humano. Ejemplo:los asistentes virtuales como Siri o Alexa, que pueden entender y responder a preguntas en lenguaje natural.
+2.  **Procesamiento del lenguaje natural (NLP):** ayuda a los ordenadores a entender, interpretar y generar lenguaje humano. Ejemplo: los asistentes virtuales como Siri o Alexa, o los chatbots como ChatGPT o Claude.
 
-3.  **Visión por Computadora:** Permite a las computadoras interpretar y entender imágenes y videos. Ejemplo:los sistemas de reconocimiento facial utilizados en los teléfonos inteligentes para desbloquear el dispositivo.
+3.  **Visión artificial:** permite a los ordenadores interpretar y entender imágenes y vídeos. Ejemplo: el reconocimiento facial que usan los móviles para desbloquearse.
 
-4.  **Robótica:** Involucra el diseño y uso de robots que pueden realizar tareas físicas. Ejemplo: los robots aspiradores, como Roomba, que pueden moverse y limpiar de manera autónoma.
+4.  **Robótica:** diseño y uso de robots capaces de realizar tareas físicas. Ejemplo: los robots aspiradores, que se mueven y limpian de forma autónoma.
 
-5.  **Sistemas Expertos:** Emulan la toma de decisiones de un experto humano en áreas específicas. Ejemplo: las herramientas de diagnóstico médico que ayudan a los médicos a identificar enfermedades basándose en los síntomas y datos médicos del paciente.
+5.  **Sistemas expertos:** imitan la toma de decisiones de una persona experta en un área concreta. Ejemplo: herramientas de diagnóstico que ayudan a los médicos a identificar enfermedades a partir de los síntomas y datos del paciente.
 
-6.  **Inteligencia Artificial General (AGI):** Busca desarrollar sistemas con capacidades cognitivas amplias y versátiles, similares a las humanas. Aún en desarrollo, pero un ejemplo hipotético sería una IA que pueda aprender y realizar cualquier tarea intelectual que un humano pueda hacer, adaptándose a diferentes situaciones como lo haría una persona. Por ejemplo un tutor educativo que te explica cualquier materia según tu nivel y estilo de aprendizaje.
+Además, existe un objetivo a largo plazo que todavía no se ha alcanzado:
 
-#### ¿Qué es Machine Learning o aprendizaje automático?
+-   **Inteligencia artificial general (AGI):** sistemas con capacidades amplias y versátiles, parecidas a las humanas, capaces de aprender cualquier tarea intelectual y adaptarse a situaciones nuevas como lo haría una persona. Por ejemplo, un tutor que te explicara cualquier materia adaptándose a tu nivel y a tu forma de aprender.
 
-Es una rama de la informática que desarrolla programas capaces de aprender y tomar decisiones basadas en datos, sin necesidad de ser programados específicamente para cada tarea.
+#### ¿Qué es el aprendizaje automático (Machine Learning)?
 
-Estos programas analizan grandes cantidades de datos, encuentran patrones y usan esa información para hacer cosas como reconocer imágenes o hacer predicciones.
+Es una rama de la informática que desarrolla programas capaces de aprender y tomar decisiones a partir de datos, sin necesidad de programarlos específicamente para cada tarea.
 
-En la **programación clásica**:
+Estos programas analizan grandes cantidades de datos, encuentran patrones y usan esa información para, por ejemplo, reconocer imágenes o hacer predicciones.
 
-![](images/programacionClasica.png){fig-aling="center" width="center"}
+La gran diferencia está en **quién escribe las reglas**:
 
-Con **aprendizaje automático**:
+-   En la **programación clásica**, la persona programadora escribe las reglas; el ordenador las aplica a los datos y obtiene las respuestas.
 
-![](images/programacionMachineLearning.png){fig-aling="center" width="center"}
+![Programación clásica: reglas + datos → respuestas](images/programacionClasica.png){fig-align="center" fig-alt="Esquema de la programación clásica: reglas y datos producen respuestas"}
 
-#### Tipos de ML o aprendizaje automático
+-   Con **aprendizaje automático**, le damos al ordenador los datos y las respuestas (ejemplos), y es él quien descubre las reglas.
 
-1.  **Aprendizaje Supervisado**: Es como aprender con un maestro. Enseñas a la computadora con ejemplos etiquetados Ejemplo: mostrar fotos de perros y decirle que son perros. Luego, la computadora puede identificar perros en nuevas fotos por sí misma.
+![Aprendizaje automático: datos + respuestas → reglas](images/programacionMachineLearning.png){fig-align="center" fig-alt="Esquema del aprendizaje automático: datos y respuestas producen reglas"}
 
-![](images/aprendizajeSupervisado.png){fig-align="center"}
+#### Tipos de aprendizaje automático
 
-2.  **Aprendizaje No Supervisado:** la computadora aprende sin un maestro. Le das un montón de datos sin etiquetar y le pides que encuentre patrones por sí misma. Ejemplo: Agrupación de fotos en tu teléfono: la computadora analiza las fotos en tu teléfono y las agrupa automáticamente en categorías, como "vacaciones", "cumpleaños" y "mascotas", sin que le digamos de antemano qué categoría es cada una.
+1.  **Aprendizaje supervisado:** es como aprender con un profesor. Enseñamos al ordenador con ejemplos etiquetados: por ejemplo, le mostramos fotos de perros y le decimos que son perros. Después, el ordenador es capaz de identificar perros en fotos nuevas por sí mismo.
 
-![](images/aprendizajeNoSupervisado.png){fig-align="center" width="300"}
+    ![](images/aprendizajeSupervisado.png){fig-align="center" fig-alt="Ilustración del aprendizaje supervisado con ejemplos etiquetados"}
 
-3.  **Aprendizaje por Refuerzo:** Es como enseñar a una mascota con golosinas. La computadora toma decisiones y recibe recompensas o castigos según lo que haga bien o mal. Con el tiempo, aprende a tomar las decisiones correctas para obtener más recompensas. Ejemplo: Entrenamiento de un agente virtual (robot) para jugar un videojuego: el agente virtual toma decisiones (como moverse en el juego) y recibe recompensas (como puntos) según su desempeño en el juego. Con el tiempo, el agente aprende a tomar las decisiones que maximizan sus recompensas, como evitar obstáculos y alcanzar objetivos en el juego.
+2.  **Aprendizaje no supervisado:** el ordenador aprende sin profesor. Le damos muchos datos sin etiquetar y él mismo busca patrones. Ejemplo: la galería de fotos del móvil agrupa automáticamente las fotos por caras, lugares o mascotas sin que le digamos de antemano a qué grupo pertenece cada una.
 
-![](images/aprendizajePorRefuerzo.png){fig-align="center" width="300"}
+    ![](images/aprendizajeNoSupervisado.png){fig-align="center" width="300" fig-alt="Ilustración del aprendizaje no supervisado agrupando datos"}
+
+3.  **Aprendizaje por refuerzo:** es como enseñar a una mascota con premios. El ordenador toma decisiones y recibe recompensas o penalizaciones según lo que haga bien o mal. Con el tiempo, aprende qué decisiones le dan más recompensas. Ejemplo: un agente virtual que aprende a jugar a un videojuego: se mueve, gana o pierde puntos y, partida tras partida, aprende a esquivar obstáculos y alcanzar sus objetivos.
+
+    ![](images/aprendizajePorRefuerzo.png){fig-align="center" width="300" fig-alt="Ilustración del aprendizaje por refuerzo con recompensas"}
+
+La actividad de hoy es un ejemplo de **aprendizaje supervisado**.
 
 #### ¿Qué vamos a hacer?
 
-Crearemos un modelo de inteligencia artificial, usando [Machine Learning for Kids](https://machinelearningforkids.co.uk/), que sea capaz de reconocer formas diferentes, por ejemplo cuadrados, círculos y triángulos y la emplearemos en un programa de Scratch para que un personaje reconozca las formas al mostrárselas por la cámara. Podemos usar lápiz y papel para dibujar las fomas.
+Crearemos un modelo de inteligencia artificial con [Machine Learning for Kids](https://machinelearningforkids.co.uk/) que sea capaz de reconocer distintas formas (cuadrados, círculos y triángulos). Después lo usaremos en un programa de Scratch para que un personaje reconozca las formas que le enseñemos por la cámara. Las formas las dibujaremos con lápiz y papel.
 
 #### Pasos a seguir
 
-1.  Recolección de datos y etiquetado:
+1.  **Recogida de datos y etiquetado:**
 
--   Datos: Son la información que usamos para enseñar a las computadoras. Por ejemplo, si queremos que una computadora reconozca fotos de gatos y perros, los datos serían muchas fotos diferentes de gatos y perros.
+    -   **Datos:** la información que usamos para enseñar al ordenador. Si queremos que reconozca fotos de gatos y perros, los datos serán muchas fotos diferentes de gatos y perros.
+    -   **Etiquetas:** los nombres que damos a cada dato. Cada foto de un gato llevará la etiqueta "gato" y cada foto de un perro, la etiqueta "perro".
 
--   Etiquetas: Son las descripciones o nombres que damos a los datos. Siguiendo con el ejemplo, cada foto de un gato tendría una etiqueta que dice "gato". Si también tenemos fotos de perros, esas fotos tendrían la etiqueta "perro".
+    En nuestro caso, creamos un proyecto de tipo *reconocer imágenes* con tres etiquetas (`triangulo`, `circulo` y `cuadrado`) y añadimos fotos de nuestros dibujos con la cámara web. Cuantos más ejemplos y más variados (distintos tamaños, posiciones, grosores de trazo...), mejor aprenderá el modelo.
 
-En nuestro caso debemos recopilar imagenes de triángulos, círculos y cuadrados y etiquetarlos.
+    ![](images/formas.png){fig-align="center" fig-alt="Ejemplos de imágenes de triángulos, círculos y cuadrados etiquetados"}
 
-![](images/formas.png){fig-align="center"}
+2.  **Entrenamiento del modelo:** el ordenador analiza todas las imágenes y aprende las diferencias entre las formas. Un algoritmo busca patrones en las imágenes de cada etiqueta y va ajustando los parámetros del modelo para distinguirlas. Al terminar el entrenamiento, obtenemos el modelo.
 
-2.  **Entrenamiento del modelo:** La computadora analiza todas las imágenes de las diferentes formas y aprende las diferencias entre ellas. Utiliza un algoritmo para analizar las imágenes y encontrar patrones en las etiquetas (triángulo, círculo y cuadrado). El algoritmo ajusta los parámetros del modelo para aprender a distinguir entre las imágenes. A medida que el entrenamiento progresa, se crea el modelo.
+    ![](images/modelo.png){fig-align="center" fig-alt="Entrenamiento del modelo a partir de las imágenes etiquetadas"}
 
-![](images/modelo.png){fig-align="center"}
+3.  **Prueba del modelo:** mostramos al modelo formas nuevas que no ha visto nunca y comprobamos si las identifica bien. Si se equivoca mucho, añadimos más ejemplos y volvemos a entrenarlo.
 
-3. **Prueba del modelo:**
-Has entrenado tu modelo y quieres ver si funciona bien.
-Subes nuevas imágenes de diferentes figuras, que la computadora no ha visto antes y le pides que las identifique. La computadora usará lo que aprendió durante el entrenamiento para hacer su mejor predicción.
-Verificas la precisión del modelo y ajustas si es necesario.
+4.  **Uso del modelo:** el modelo ya está listo para usarse en un proyecto, como un juego que reconozca tus dibujos o una aplicación que clasifique imágenes. Cada vez que le mostremos una imagen nueva, intentará adivinar si es un círculo, un cuadrado o un triángulo según lo que aprendió.
 
-4. **Uso del modelo:**
-Tu modelo está listo para usarse.
-Puedes integrarlo en un proyecto, como un juego que reconozca los dibujos que haces o una aplicación que clasifique imágenes. Cada vez que subas una nueva imagen, el modelo intentará adivinar si es un círculo, un cuadrado o un triángulo basándose en lo que aprendió.
+    ![](images/usoModelo.png){fig-align="center" fig-alt="Uso del modelo para clasificar una imagen nueva"}
 
-![](images/usoModelo.png){fig-align="center"}
+    Nosotros usaremos el modelo desde Scratch, con los bloques que Machine Learning for Kids añade a nuestro proyecto:
 
-Utilizaremos Scratch para usar nuestro modelo.
+    ![](images/codigoScratch.png){fig-align="center" fig-alt="Programa de Scratch que usa el modelo para reconocer formas"}
 
-![](images/codigoScratch.png){fig-align="center"}
+::: {.callout-tip}
+## ¿Quieres ir más allá?
 
-<!-- ::: {.callout-caution style="background: white"} -->
-<!-- 🏗️ ***Página en construcción*** -->
-<!-- ::: -->
+-   Añade una cuarta forma (por ejemplo, una estrella) y vuelve a entrenar el modelo.
+-   Prueba qué pasa si entrenas con pocos ejemplos o con ejemplos muy parecidos: ¿se equivoca más el modelo?
+-   Haz que el personaje reaccione de forma distinta a cada forma (un sonido, un disfraz, un movimiento...).
+:::

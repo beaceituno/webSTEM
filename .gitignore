@@ -52,3 +52,15 @@ rsconnect/
 
 # Lista de carpetas  de usuario ocultas al control de versiones
 ignore/
+
+# Quarto / Netlify
+.netlify/
+
+# Restos de compilación LaTeX/PDF
+*.aux
+*.log
+*.out
+/about.tex
+/about_files/
+
+**/*.quarto_ipynb
