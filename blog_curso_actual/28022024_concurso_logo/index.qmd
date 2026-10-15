@@ -4,7 +4,7 @@ description: Diseño de un logo que represente al club.
 date: '02-27-2024'
 draft: false
 editor: source
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Calisthenics_in_Berlin-Marzahn_%28Marzahner_Promenade%29_Siegertreppchen.jpg/640px-Calisthenics_in_Berlin-Marzahn_%28Marzahner_Promenade%29_Siegertreppchen.jpg
+image: images/portada.jpg
 categories: 
   - 2023/24
   - Actividad

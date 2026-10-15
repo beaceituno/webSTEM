@@ -4,7 +4,7 @@ description: Cómo se genera el dinero.
 date: '04-24-2024'
 draft: false
 editor: source
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bank_Run_on_American_Union_Bank.jpeg/640px-Bank_Run_on_American_Union_Bank.jpeg
+image: images/portada.jpg
 categories: 
   - 2023/24
   - Juego

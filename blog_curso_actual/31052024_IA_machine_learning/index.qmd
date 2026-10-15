@@ -4,7 +4,7 @@ description: Cómo entrenar una máquina con aprendizaje automático.
 date: '05-31-2024'
 draft: false
 editor: source
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Artificial-Intelligence.jpg/640px-Artificial-Intelligence.jpg
+image: images/portada.jpg
 categories:
   - 2023/24
   - Actividad

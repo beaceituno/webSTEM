@@ -4,7 +4,7 @@ description: Cómo medir el pH de forma casera.
 date: '11-29-2023'
 draft: false
 editor: source
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/PH_scale_2.png/640px-PH_scale_2.png
+image: images/portada.png
 categories: 
   - 2023/24
   - Visita

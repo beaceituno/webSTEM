@@ -4,7 +4,7 @@ description: Cómo construir tu propio juego de estrategia
 date: '12-05-2023'
 draft: false
 editor: source
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Mancala_board_at_an_Ezidi_home_in_June_of_2019_in_Wardia_village_near_Shingal_town_04.jpg/640px-Mancala_board_at_an_Ezidi_home_in_June_of_2019_in_Wardia_village_near_Shingal_town_04.jpg
+image: images/portada.jpg
 categories: 
   - 2023/24
   - Juego

@@ -4,7 +4,7 @@ description: Visita a un laboratorio de Química. Ver de forma práctica como la
 date: '11-29-2023'
 draft: false
 editor: source
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bull_%26_Roberts_Lab_1914.jpg/640px-Bull_%26_Roberts_Lab_1914.jpg
+image: images/portada.jpg
 categories: 
   - 2023/24
   - Visita

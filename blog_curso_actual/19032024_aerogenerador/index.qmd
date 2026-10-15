@@ -4,7 +4,7 @@ description: Cómo transformar energía mecánica en energía eléctrica.
 date: '03-19-2024'
 draft: false
 editor: source
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Power_County_Wind_Farm_002.jpg/640px-Power_County_Wind_Farm_002.jpg
+image: images/portada.jpg
 categories: 
   - 2023/24
   - Actividad

@@ -4,7 +4,7 @@ description: Cómo diseñar sistemas que aseguren la seguridad y confidencialida
 date: '03-12-2024'
 draft: false
 editor: source
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Encryption_device%2C_probably_German%2C_before_1587%2C_severely_damaged_in_1945_-_Mathematisch-Physikalischer_Salon%2C_Dresden_-_DSC08038.JPG/640px-Encryption_device%2C_probably_German%2C_before_1587%2C_severely_damaged_in_1945_-_Mathematisch-Physikalischer_Salon%2C_Dresden_-_DSC08038.JPG
+image: images/portada.jpg
 categories: 
   - 2023/24
   - Actividad

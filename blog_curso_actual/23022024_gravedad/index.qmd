@@ -4,7 +4,7 @@ description: Cómo medir el valor de la gravedad.
 date: '02-23-2024'
 draft: false
 editor: source
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Acceleration-due-to-Gravity-on-Earth.png/640px-Acceleration-due-to-Gravity-on-Earth.png
+image: images/portada.png
 categories: 
   - 2023/24
   - Actividad

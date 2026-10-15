@@ -4,7 +4,7 @@ description: Cómo aislarse de los campos electromagnéticos.
 date: '01-16-2024'
 draft: false
 editor: source
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gregory_tesla.jpg/640px-Gregory_tesla.jpg
+image: images/portada.jpg
 categories: 
   - 2023/24
   - Actividad

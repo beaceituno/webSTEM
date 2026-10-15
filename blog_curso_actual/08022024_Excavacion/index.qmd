@@ -4,7 +4,7 @@ description: Cómo se realizan las excavaciones arqueológicas.
 date: '02-23-2024'
 draft: false
 editor: source
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Archaeological_excavation_in_Apuol%C4%97_in_1931.jpg/640px-Archaeological_excavation_in_Apuol%C4%97_in_1931.jpg
+image: images/portada.jpg
 categories: 
   - 2023/24
   - Actividad

@@ -4,7 +4,7 @@ description: Cómo se transfiere el agua en las plantas.
 date: '05-15-2024'
 draft: false
 editor: source
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Beech_and_ferns_in_Gullmarsskogen.jpg/640px-Beech_and_ferns_in_Gullmarsskogen.jpg
+image: images/portada.jpg
 categories: 
   - 2023/24
   - Biología
