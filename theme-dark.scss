@@ -1,0 +1,29 @@
+/*-- scss:defaults --*/
+$body-bg: #161B2E;
+$body-color: #DCE3F5;
+$headings-color: #A9BEFF;
+$link-color: #8FB8FF;
+$destacado: #FF9E80;
+$callout-bg: #1F2640;
+$card-bg: #1F2640;
+$card-color: $body-color;
+$input-bg: #1F2640;
+$input-color: $body-color;
+$navbar-bg: #1F2640;
+$navbar-fg: $body-color;
+$navbar-hl: #FFFFFF;
+$code-bg: #1F2640;
+$code-color: #FFB3C1;
+$table-color: $body-color;
+$border-color: #3A4466;
+
+/*-- scss:rules --*/
+td, th {
+  background: $body-bg;
+  color: $body-color;
+}
+.destacado { color: $destacado; }
+.callout { background: $callout-bg; }
+.card, .quarto-grid-item { background-color: $card-bg; color: $body-color; }
+// Las imágenes con fondo transparente se leen mejor sobre fondo claro
+img.figure-img { background: #FFFFFF; border-radius: 4px; }

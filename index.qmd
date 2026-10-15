@@ -19,7 +19,9 @@ resources:
 
 ![](images/juanDeMairena-01.png){fig-alt="Foto entrada IES Juan de Mairena"}
 
-<center><font size=+2><font color="brown">[**¡VEN A CONOCERNOS! Estáis todos invitados.**]{.smallcaps}</font></center>
+::: {style="text-align: center; font-size: 1.5em"}
+[**¡VEN A CONOCERNOS! Estáis todos invitados.**]{.smallcaps .destacado}
+:::
 
 ## Próximas actividades
 
@@ -29,13 +31,13 @@ resources:
 >
 > -   Organiza: Departamento de Tecnología.
 
-::: {.callout-important style="background: white"}
+::: {.callout-important}
 La actividad tendrá lugar en el aula 301.
 :::
 
 ## Novedades
 
-::: {.callout-important style="background: white"}
+::: {.callout-important}
 ## Concurso de podcast científicos STEMadrid+
 
 El IES Juan de Mairena participa en el concurso de podcast científicos con STEMadrid+. Hemos subido nuestro podcast sobre Ada Lovelace a la plataforma Voces del Aula, compitiendo por el título al podcast más popular. Tanto estudiantes, como profesores pueden acceder con su usuario de Educamadrid para escuchar y disfrutar de nuestro trabajo.

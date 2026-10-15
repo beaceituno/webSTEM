@@ -1,0 +1,15 @@
+/*-- scss:defaults --*/
+$body-bg: #EFF8FA;
+$body-color: #24338E;
+$headings-color: #24338E;
+$link-color: #1F5FBF;
+$destacado: #A52A2A;
+$callout-bg: #FFFFFF;
+
+/*-- scss:rules --*/
+td, th {
+  background: $body-bg;
+  color: $body-color;
+}
+.destacado { color: $destacado; }
+.callout { background: $callout-bg; }

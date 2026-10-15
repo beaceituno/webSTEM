@@ -1,14 +1,4 @@
-/* css styles */
-body {
-  background-color: #EFF8FA;
-}
-h1 {
-  color: #24338E;
-}
-td, th {
-   background: #EFF8FA;
-   color: #24338E;
-}  
+/* css styles (los colores están en theme-light.scss y theme-dark.scss) */
 div {
   text-align: justify;
   text-justify: inter-word;

@@ -20,8 +20,10 @@ website:
 
 format:
   html:
-    theme: sketchy
-    fontcolor: "#24338E"
+    theme:
+      light: [sketchy, theme-light.scss]
+      dark: [sketchy, theme-dark.scss]
+    respect-user-color-scheme: true
     css: styles.css
     toc: true
 
